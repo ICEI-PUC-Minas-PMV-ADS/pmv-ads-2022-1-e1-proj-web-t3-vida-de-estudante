@@ -10,8 +10,6 @@ Desta forma, torna-se necessário cobrir esta lacuna enfrentada pelos estudantes
 
 Diante do exposto, o desafio que se busca superar com este projeto é a falta de suporte enfrentada por alunos do ensino superior no que se refere às fontes de informações e conhecimentos necessários para um bom aproveitamento acadêmico.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
 
 ## Objetivos
 
