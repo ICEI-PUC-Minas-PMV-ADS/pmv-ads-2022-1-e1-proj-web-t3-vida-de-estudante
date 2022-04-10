@@ -45,7 +45,7 @@ A equipe está organizada da seguinte maneira:
 <li>Product Owner: Joyce Carvalho</li>
 </ul>
 <ul style=list-style-position: "inside"><li>Equipe de Desenvolvimento:</li>
-<li>Fernanda Coura</li>
+ - Fernanda Coura
 <li>Paulo Henrique da Cruz Alves</li>
 <li>Nome 3</li>
 <li>Nome 4</li>
