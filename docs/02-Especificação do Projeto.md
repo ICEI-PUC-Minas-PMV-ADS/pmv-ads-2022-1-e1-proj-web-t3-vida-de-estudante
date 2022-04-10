@@ -47,7 +47,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-018| O site deverá apresentar em cada função do sistema (tutoria e troca de livros) 4 botões relativos às 4 áreas de conhecimento em que serão subdivididas as funções, devendo os botões redirecionar o usuário para interface relativa àquela área.  | BAIXA |
 
 
-### Requisitos não Funcionais
+### Requisitos Não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
