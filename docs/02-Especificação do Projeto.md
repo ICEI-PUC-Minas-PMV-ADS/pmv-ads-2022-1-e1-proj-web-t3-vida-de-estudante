@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/01-Documentação%20de%20Contexto.md"> Documentação de Contexto</a></span>
 
 A descrição do problema e os pontos mais relevantes a serem tratados neste projeto foram estabelecidos com a criação de personas e histórias de usuários que representam as necessidades de estudantes de graduação e usuários em potencial da aplicação web a ser desenvolvida.
 
