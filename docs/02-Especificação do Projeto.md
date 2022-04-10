@@ -56,23 +56,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet. | ALTA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em dispositivos diversos de forma adequada. | ALTA | 
+|RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | MÉDIA | 
+|RNF-004| O site deve ser compatível com os navegadores mais utilizados do mercado. | ALTA | 
+|RNF-005| O site deve estar disponível no período de 24 horas, 7 dias por semana. | ALTA | 
+|RNF-006| O site deve conter um sistema de backup para evitar perdas de dados caso ocorram falhas no sistema. | ALTA | 
+|RNF-007| O site deve ter alta performance em 95% do tempo. | ALTA | 
+|RNF-008| O site deve atender às normas legais, tais como padrões e leis. | ALTA | 
+|RNF-009| O software deve ocupar no máximo 5% da capacidade do CPU. | ALTA | 
+|RNF-010| O software deve ocupar 3% da memória RAM do dispositivo. | ALTA | 
+|RNF-011| Ao contabilizar 1 hora de acesso por um usuário registrado como tutor, o certificado de horas extras deve ser emitido em, no máximo, 10 minutos. | MÉDIA | 
+|RNF-012| O sistema deverá ser compatível com as plataformas Windows 8 ou 10, Linux e MacOS. | ALTA | 
+|RNF-013| A resposta da funcionalidade de login do sistema não poderá ser superior a 5 segundos. | BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
