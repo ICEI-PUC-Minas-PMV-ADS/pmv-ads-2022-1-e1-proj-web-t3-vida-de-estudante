@@ -13,7 +13,6 @@ A descrição do problema e os pontos mais relevantes a serem tratados neste pro
 <li></li>
 <li></li>
 <li></li>
-<li></li>
 </ol>
 
 
@@ -21,10 +20,11 @@ A descrição do problema e os pontos mais relevantes a serem tratados neste pro
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
+|Usuário do sistema  | ajudar estudantes da área de tecnologia que estão com dificuldades nos estudos | para que recebam orientações e não sejam afetados em seu desempenho acadêmico. |
+|Usuário do sistema  | participar de uma atividade extra que emita certificados | para cumprir os créditos necessários para concluir minha graduação. |
+|Usuário do sistema  | trocar os livros que adquiri durante a graduação e que não estão sendo mais utilizados | para ter em meu armário apenas os livros que estou consultando no momento. |
 
 
 ## Requisitos
