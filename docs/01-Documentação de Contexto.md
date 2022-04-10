@@ -1,11 +1,14 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A transição do ambiente escolar para a vida acadêmica traz mudanças impactantes na vida dos jovens. Segundo Oliveira e Dias (2014, p. 187), “essas mudanças podem constituir dificuldades para os alunos, que, frequentemente, buscam auxílio na sua rede de apoio para lidar com as mesmas.”
+
+Dentre as dificuldades enfrentadas, observa-se a falta de recursos financeiros para a aquisição de fontes de informações e o acompanhamento dos conhecimentos necessários para o desenvolvimento acadêmico dos discentes, visto que durante a graduação os estudos são realizados de maneira mais autônoma pelos estudantes.
+
+Desta forma, torna-se necessário cobrir esta lacuna enfrentada pelos estudantes de graduação, para que o seu aproveitamento acadêmico não seja afetado pelas adversidades citadas.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Diante do exposto, o desafio que se busca superar com este projeto é a falta de suporte enfrentada por alunos do ensino superior no que se refere às fontes de informações e conhecimentos necessários para um bom aproveitamento acadêmico.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
@@ -16,28 +19,32 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos destacar:
+<ul><li>Oferecer uma plataforma de uso gratuito para apoiar alunos de graduação em seu desenvolvimento acadêmico;</li>
+<ul>Auxiliar estes alunos na troca de livros didáticos, de referência e literatura;</li>
+<ul>Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.</li><ul>
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com Oliveira e Santos (2012) citado por Fialho e Sousa (2019, p. 211):
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+"A internet, prioritariamente as redes sociais, consiste em um campo que possibilita atuações diferenciadas por seus usuários. Para o público juvenil, por exemplo, as redes são mais do que um ambiente utilizado para se relacionar, pois também é espaço de aprendizado, de expressão e de troca de experiências."
+
+Portanto, a criação de uma aplicação web para a resolução deste problema foi motivada pela presença da internet na vida dos jovens, e os fins diversos aos quais estes a utilizam.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora os desafios citados possam ocorrer desde o início da vida escolar dos estudantes, o foco deste trabalho está no público de graduação.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Assim, estabeleceu-se como público-alvo desta solução homens e mulheres entre 18 e 24 anos, pois além de terem maior autonomia em seus estudos, eles também enfrentam os obstáculos da transição para a vida universitária, como a necessidade de rápida adaptação, e tais mudanças podem afetar o seu desempenho acadêmico.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
