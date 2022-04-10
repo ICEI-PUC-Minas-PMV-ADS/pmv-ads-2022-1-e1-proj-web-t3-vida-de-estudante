@@ -75,6 +75,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
+
 |ID| Restrição                                             |
 |--|---------------------------------------------------------------------------------------------------------|
 |01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022. |
