@@ -43,8 +43,8 @@ A equipe está organizada da seguinte maneira:
 <ul><li>Scrum Master: Daiane Procópio</li>
 <li>Product Owner: Joyce Carvalho</li>
 <li>Equipe de Desenvolvimento:</li>
- - Fernanda Coura
- - Paulo Henrique da Cruz Alves
+> - Fernanda Coura
+> - Paulo Henrique da Cruz Alves
  - Nome 3
  - Nome 4
  - Nome 5
