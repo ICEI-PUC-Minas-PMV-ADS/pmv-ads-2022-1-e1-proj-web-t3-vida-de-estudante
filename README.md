@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# Vida de Estudante
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação web front-end`
 
-`SEMESTRE`
+`1º semestre/2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Anna Luiza de Angelis Souza Freitas
+* Daiane Campos Procópio
+* Fernanda Augusta de Barcelos Coura
+* Marilene Aparecida de Souza Carvalho
+* Paulo Henrique da Cruz Alves
+* Rúbia Karina Prado Costa
+* Yam Generoso Leite
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
