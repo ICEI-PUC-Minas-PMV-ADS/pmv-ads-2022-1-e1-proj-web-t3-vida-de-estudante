@@ -6,7 +6,17 @@ A descrição do problema e os pontos mais relevantes a serem tratados neste pro
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<ol>
+<li>Luiz Campos tem 22 anos, é estudante de Sistemas de Informação, cursando o último período. Faz estágio em um banco digital no setor de desenvolvimento de softwares. Utiliza os aplicativos Instagram, Twitter, LinkedIn e Pinterest. Mora em Belo Horizonte (MG), é filho único, seus hobbies são jogar videogame e ouvir música, gosta de tecnologia e inovação. Quer fazer parte de uma rede descontraída de estudantes. Gostaria de auxiliar calouros com dificuldades nos estudos, pois passou por esta situação e não encontrou alguém que pudesse auxiliá-lo. Acredita que a tecnologia ajuda a sociedade a ter uma vida melhor. Sente dificuldade para conhecer pessoas com interesses em comum. Não sabe o que fazer com os livros que comprou e já leu, e acha que estão ocupando muito espaço em sua estante. Está quase se formando, mas ainda precisa cumprir alguns créditos extras da faculdade.</li>
+
+  
+  
+  
+  
+  
+  
+  
+</ol>
 
 
 ## Histórias de Usuários
