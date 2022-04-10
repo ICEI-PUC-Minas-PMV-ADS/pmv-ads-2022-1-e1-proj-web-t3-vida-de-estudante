@@ -40,19 +40,17 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ### Divisão de Papéis
 
 A equipe está organizada da seguinte maneira:
-<ul>
-<li>Scrum Master: Daiane Procópio</li>
+<ul><li>Scrum Master: Daiane Procópio</li>
 <li>Product Owner: Joyce Carvalho</li>
-</ul>
-<ul style=list-style-position: "inside"><li>Equipe de Desenvolvimento:</li>
+<li>Equipe de Desenvolvimento:</li>
  - Fernanda Coura
-<li>Paulo Henrique da Cruz Alves</li>
-<li>Nome 3</li>
-<li>Nome 4</li>
-<li>Nome 5</li></ul>
+ - Paulo Henrique da Cruz Alves
+ - Nome 3
+ - Nome 4
+ - Nome 5
 
-<ul style=list-style-position: "inside"><li>Equipe de Design</li>
-<li>Nome 6</li></ul>
+<li>Equipe de Design</li></ul>
+ - Nome 6
 
 
 > **Links Úteis**:
