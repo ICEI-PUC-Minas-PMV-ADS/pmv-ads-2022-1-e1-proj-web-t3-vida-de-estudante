@@ -12,6 +12,7 @@ A descrição do problema e os pontos mais relevantes a serem tratados neste pro
 <li>Luciano Silva é estudante de Direito, tem 21 anos, cursa o 5° período e trabalha como estagiário no TJMG. Utiliza os aplicativos LinkedIn, Instagram e Twitter. Saiu do Ensino Médio direto para a faculdade e não teve muito tempo para se adaptar ao novo modelo de estudo, gosta de ler e viajar. Gostaria de sanar dúvidas que tem sobre as matérias do curso e conseguir um acesso mais fácil aos materiais didáticos, podendo realizar trocas e aquisições a um preço mais baixo. Não tem uma rede de contatos na área e gostaria de criar, está disposto a ajudar alunos que estejam iniciando no curso, também busca obter horas extracurriculares para agregar em seu currículo e curso. Sente dificuldades em adquirir os livros jurídicos, devido ao alto custo e a rápida desatualização de edições, sente dificuldades em muitas matérias e não tem muito tempo para estudar.</li> 
 <li></li>
 <li></li>
+<li></li>
 </ol>
 
 
