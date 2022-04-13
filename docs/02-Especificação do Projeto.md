@@ -9,8 +9,7 @@ A descrição do problema e os pontos mais relevantes a serem tratados neste pro
 <ol>
 <li>Luiz Campos tem 22 anos, é estudante de Sistemas de Informação, cursando o último período. Faz estágio em um banco digital no setor de desenvolvimento de softwares. Utiliza os aplicativos Instagram, Twitter, LinkedIn e Pinterest. Mora em Belo Horizonte (MG), é filho único, seus hobbies são jogar videogame e ouvir música, gosta de tecnologia e inovação. Quer fazer parte de uma rede descontraída de estudantes. Gostaria de auxiliar calouros com dificuldades nos estudos, pois passou por esta situação e não encontrou alguém que pudesse auxiliá-lo. Acredita que a tecnologia ajuda a sociedade a ter uma vida melhor. Sente dificuldade para conhecer pessoas com interesses em comum. Não sabe o que fazer com os livros que comprou e já leu, e acha que estão ocupando muito espaço em sua estante. Está quase se formando, mas ainda precisa cumprir alguns créditos extras da faculdade.</li>
 <li>Vanessa Alves tem 18 anos, é estudante de Arquitetura e Urbanismo, cursando o primeiro período. Utiliza os aplicativos Twitter e Instagram. Morava no interior e acabou de se mudar para a capital (Belo Horizonte/MG) para fazer curso superior. Seu hobby é ler livros de suspense e ama arte em geral. Acabou de sair do ensino médio direto para a universidade, se sentindo meio perdida nessa sua nova etapa na vida. Enfrenta dificuldades nos exercícios e já gostaria de estar apta para as avaliações do primeiro semestre e assim não enfrentar maiores dificuldades ao longo do curso. Tem dificuldade em encontrar livros e materiais didáticos para a melhor compreensão das matérias. Não tem círculo de amizades formado ainda para que alguém possa lhe ajudar.</li>
-<li></li> 
-<li></li>
+<li>Luciano Silva é estudante de Direito, tem 21 anos, cursa o 5° período e trabalha como estagiário no TJMG. Utiliza os aplicativos LinkedIn, Instagram e Twitter. Saiu do Ensino Médio direto para a faculdade e não teve muito tempo para se adaptar ao novo modelo de estudo, gosta de ler e viajar. Gostaria de sanar dúvidas que tem sobre as matérias do curso e conseguir um acesso mais fácil aos materiais didáticos, podendo realizar trocas e aquisições a um preço mais baixo. Não tem uma rede de contatos na área e gostaria de criar, está disposto a ajudar alunos que estejam iniciando no curso, também busca obter horas extracurriculares para agregar em seu currículo e curso. Sente dificuldades em adquirir os livros jurídicos, devido ao alto custo e a rápida desatualização de edições, sente dificuldades em muitas matérias e não tem muito tempo para estudar.</li> 
 <li></li>
 <li></li>
 </ol>
@@ -22,9 +21,24 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Usuário do sistema  | ajudar estudantes da área de tecnologia que estão com dificuldades nos estudos | para que recebam orientações e não sejam afetados em seu desempenho acadêmico. |
+|Usuário do sistema | ajudar estudantes da área de tecnologia que estão com dificuldades nos estudos | para que recebam orientações e não sejam afetados em seu desempenho acadêmico. |
 |Usuário do sistema  | participar de uma atividade extra que emita certificados | para cumprir os créditos necessários para concluir minha graduação. |
 |Usuário do sistema  | trocar os livros que adquiri durante a graduação e que não estão sendo mais utilizados | para ter em meu armário apenas os livros que estou consultando no momento. |
+|Usuário do sistema | acessar os materiais do curso de uma maneira mais fácil | para otimizar meu tempo de estudo e entender melhor o conteúdo. |
+|Usuário do sistema | sanar dúvidas que tenho sobre as matérias do curso com alunos que possam ajudar | para entender melhor as matérias e criar uma rede de contatos.|
+|Usuário do sistema | auxiliar estudantes que estejam iniciando na área  | ajudar alunos que apresentem dificuldades semelhantes às que eu já tive. |
+|Usuário do sistema |conseguir um certificado de horas extracurriculares | para agregar no currículo e computar para a formação.|
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Requisitos
