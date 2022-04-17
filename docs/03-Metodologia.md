@@ -42,7 +42,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 A equipe está organizada da seguinte maneira:
 <ul><li>Scrum Master: Daiane Procópio</li>
 <li>Product Owner: Joyce Carvalho</li>
-<li>Equipe de Desenvolvimento: Fernanda Coura, Paulo Henrique da Cruz Alves, Nome 3, Nome 4, Nome 5</li>
+<li>Equipe de Desenvolvimento: Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina, Nome 4, Nome 5</li>
 <li>Equipe de Design: Nome 6</li></ul>
 
 
