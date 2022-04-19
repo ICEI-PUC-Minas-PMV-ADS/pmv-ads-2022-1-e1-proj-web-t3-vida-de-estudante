@@ -45,12 +45,6 @@ A equipe está organizada da seguinte maneira:
 <li>Equipe de Desenvolvimento: Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina, Nome 4, Nome 5</li>
 <li>Equipe de Design: Nome 6</li></ul>
 
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
@@ -75,7 +69,7 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-Relação de ambientes de trabalho
+<b>Relação de ambientes de trabalho</b>
 <p>Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.<p/>
 
 | AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
