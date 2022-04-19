@@ -11,29 +11,10 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-O projeto segue a seguinte convenção para o nome de branches:
+Para a gestão do código fonte do software desenvolvido pela equipe será utilizado um processo baseado no Gitflow, mostrado na figura abaixo, que permite que a equipe trabalhe com correções de problemas ou atualizações sem a interrupção do trabalho em andamento (ATLASSIAN BITBUCKET, [<i>s. d.</i>]).
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+![image](https://user-images.githubusercontent.com/100447878/164069517-f747ce40-3bef-4ac5-9585-9d6259848bb4.png)
+<p>Figura 1 - Fluxo de controle do código fonte no repositório Git</p>
 
 ## Gerenciamento de Projeto
 
