@@ -32,28 +32,28 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <p>A tela da página Sobre apresenta informações sobre a aplicação web “Vida de Estudante”, como objetivos do projeto e orientações para o uso da aplicação.</p>
 
 ![image](https://user-images.githubusercontent.com/100447878/164103532-492cd669-e8c0-4e3c-a016-b4089e585f0a.png)
-<p>Figura 10 - Tela de cadastro do usuário</p>
+<p>Figura 7 - Tela da página Sobre</p>
 <hr>
 <h3><b>Tela - Livros</b></h3>
 <p>A tela da página Livros apresenta os livros disponíveis para troca, as informações sobre os livros, a funcionalidade para marcar o livro como favorito e o contato do proprietário do livro.</p>
 
 ![image](https://user-images.githubusercontent.com/100447878/164103569-22336d93-a0ad-4cd2-8797-b30f28400408.png)
-<p>Figura 7 - Tela de Livros</p>
+<p>Figura 8 - Tela de Livros</p>
 <hr>
 <h3><b>Tela - Tutorias</b></h3>
 <p>A tela da página Tutorias apresenta as informações sobre os tutores, alunos, disciplinas e informações para contato.</p>
 
 ![image](https://user-images.githubusercontent.com/100447878/164103593-d6f029fb-e76b-41b8-9336-5f2baf2aafcc.png)
-<p>Figura 8 - Tela de Tutorias</p>
+<p>Figura 9 - Tela de Tutorias</p>
 <hr>
 <h3><b>Tela – Sign in</b></h3>
 <p>A tela da página para o acesso à conta do usuário apresenta um campo para a inserção do e-mail e senha, e a funcionalidade para troca de senha, caso o usuário tenha esquecido a mesma.</p>
 
 ![image](https://user-images.githubusercontent.com/100447878/164103617-bbbd9668-9937-42fe-ac35-f85cf8d5abfe.png)
-<p>Figura 9 - Tela de acesso à conta do usuário</p>
+<p>Figura 10 - Tela de acesso à conta do usuário</p>
 <hr>
 <h3><b>Tela – Cadastro</b></h3>
 <p>A tela da página de cadastro apresenta os campos para a inserção das informações pessoais do usuário: nome completo e e-mail, e para a criação e confirmação de uma senha.</p>
 
 ![image](https://user-images.githubusercontent.com/100447878/164103631-b62135af-59ad-42a5-b3da-44082b731c55.png)
-<p>Figura 10 - Tela de cadastro do usuário</p>
+<p>Figura 11 - Tela de cadastro do usuário</p>
