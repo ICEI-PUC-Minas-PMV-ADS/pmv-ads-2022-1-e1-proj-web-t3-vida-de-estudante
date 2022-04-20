@@ -6,6 +6,7 @@ Dentre as dificuldades enfrentadas, observa-se a falta de recursos financeiros p
 
 Desta forma, torna-se necessário cobrir esta lacuna enfrentada pelos estudantes de graduação, para que o seu aproveitamento acadêmico não seja afetado pelas adversidades citadas.
 
+
 ## Problema
 
 Diante do exposto, o desafio que se busca superar com este projeto é a falta de suporte enfrentada por alunos do ensino superior no que se refere às fontes de informações e conhecimentos necessários para um bom aproveitamento acadêmico.
