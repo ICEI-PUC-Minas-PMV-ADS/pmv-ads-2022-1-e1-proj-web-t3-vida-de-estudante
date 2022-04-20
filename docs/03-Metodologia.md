@@ -13,8 +13,10 @@ foi utilizado para hospedagem do repositório.
 
 Para a gestão do código fonte do software desenvolvido pela equipe será utilizado um processo baseado no Gitflow, mostrado na figura abaixo, que permite que a equipe trabalhe com correções de problemas ou atualizações sem a interrupção do trabalho em andamento (ATLASSIAN BITBUCKET, [<i>s. d.</i>]).
 
-![image](https://user-images.githubusercontent.com/100447878/164069517-f747ce40-3bef-4ac5-9585-9d6259848bb4.png)
-<p>Figura 1 - Fluxo de controle do código fonte no repositório Git</p>
+<figure>
+<img src="https://user-images.githubusercontent.com/100447878/164069517-f747ce40-3bef-4ac5-9585-9d6259848bb4.png"
+<figcaption>Figura 1 - Fluxo de controle do código fonte no repositório Git</figcaption>
+<figure>
 
 ## Gerenciamento de Projeto
 
@@ -25,10 +27,12 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 Desta forma, a equipe está organizada da seguinte maneira:
-<ul><li>Scrum Master: Daiane Procópio</li>
+<ul>
+<li>Scrum Master: Daiane Procópio</li>
 <li>Product Owner: Joyce Carvalho</li>
-<li>Equipe de Desenvolvimento: Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina, Nome 4, Nome 5</li>
-<li>Equipe de Design: Nome 6</li></ul>
+<li>Equipe de Desenvolvimento: Anna Freitas, Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina, Yam Leite</li>
+<li>Equipe de Design: Marilene Carvalho</li>
+</ul>
 
 ### Processo
 
