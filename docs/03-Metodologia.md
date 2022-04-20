@@ -8,7 +8,7 @@ Esta seção descreve as ferramentas utilizadas pela equipe para a manutenção 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
+[Git](https://git-scm.com/), sendo que o [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/README.md)
 foi utilizado para hospedagem do repositório.
 
 Para a gestão do código fonte do software desenvolvido pela equipe será utilizado um processo baseado no Gitflow, mostrado na figura abaixo, que permite que a equipe trabalhe com correções de problemas ou atualizações sem a interrupção do trabalho em andamento (ATLASSIAN BITBUCKET, [<i>s. d.</i>]).
