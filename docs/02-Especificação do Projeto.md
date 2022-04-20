@@ -4,6 +4,7 @@
 
 A descrição do problema e os pontos mais relevantes a serem tratados neste projeto foram estabelecidos com a criação de personas e histórias de usuários que representam as necessidades de estudantes de graduação e usuários em potencial da aplicação web a ser desenvolvida.
 
+
 ## Personas
 
 <ol>
@@ -24,22 +25,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Usuário do sistema | ajudar estudantes da área de tecnologia que estão com dificuldades nos estudos | para que recebam orientações e não sejam afetados em seu desempenho acadêmico. |
 |Usuário do sistema  | participar de uma atividade extra que emita certificados | para cumprir os créditos necessários para concluir minha graduação. |
-|Usuário do sistema  | trocar os livros que adquiri durante a graduação e que não estão sendo mais utilizados | para ter em meu armário apenas os livros que estou consultando no momento. |
 |Usuário do sistema | acessar os materiais do curso de uma maneira mais fácil | para otimizar meu tempo de estudo e entender melhor o conteúdo. |
 |Usuário do sistema | sanar dúvidas que tenho sobre as matérias do curso com alunos que possam ajudar | para entender melhor as matérias e criar uma rede de contatos.|
 |Usuário do sistema | auxiliar estudantes que estejam iniciando na área  | ajudar alunos que apresentem dificuldades semelhantes às que eu já tive. |
 |Usuário do sistema |conseguir um certificado de horas extracurriculares | para agregar no currículo e computar para a formação.|
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Requisitos
@@ -59,15 +48,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O site deve permitir salvar livros favoritos.   | MÉDIA |
 |RF-008| O site deve permitir verificar os livros salvos como favoritos.  | MÉDIA |
 |RF-009| O site deve emitir certificados para as tutorias oferecidas.   | MÉDIA |
-|RF-010| O site deve permitir visualizar as informações de contatos do mantenedor do site.   | BAIXA |
-|RF-011| O site deve permitir o envio de mensagens para qualquer usuário cadastrado no site.    | MÉDIA |
-|RF-012| O site deve permitir ao usuário criar uma lista de amigos.   | MÉDIA |
-|RF-013| O site deve permitir ao usuário adicionar contatos à sua lista de amigos.  | MÉDIA |
-|RF-014| O site deve permitir fazer comentários sobre os livros.   | BAIXA |
-|RF-015| O site deve permitir fazer comentários sobre os tutores.   | BAIXA |
-|RF-016| O site deve fornecer a opção de exibir comentários de livros.  | BAIXA |
-|RF-017| O site deve fornecer a opção de exibir comentários sobre os tutores.   | BAIXA |
-|RF-018| O site deverá apresentar em cada função do sistema (tutoria e troca de livros) 4 botões relativos às 4 áreas de conhecimento em que serão subdivididas as funções, devendo os botões redirecionar o usuário para interface relativa àquela área.  | BAIXA |
+|RF-010| O site deve permitir o envio de mensagens para qualquer usuário cadastrado no site.    | MÉDIA |
+|RF-011| O site deve permitir ao usuário criar uma lista de amigos.   | MÉDIA |
+|RF-012| O site deve permitir ao usuário adicionar contatos à sua lista de amigos.  | MÉDIA |
+|RF-013| O site deve permitir fazer comentários sobre os livros.   | BAIXA |
+|RF-014| O site deve permitir fazer comentários sobre os tutores.   | BAIXA |
+|RF-015| O site deve fornecer a opção de exibir comentários de livros.  | BAIXA |
+|RF-016| O site deve fornecer a opção de exibir comentários sobre os tutores.   | BAIXA |
+|RF-017| O site deverá apresentar em cada função do sistema (tutoria e troca de livros) 4 botões relativos às 4 áreas de conhecimento em que serão subdivididas as funções, devendo os botões redirecionar o usuário para interface relativa àquela área.  | BAIXA |
 
 
 ### Requisitos Não Funcionais
@@ -92,7 +80,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
-
 
 |ID| Restrição                                             |
 |--|---------------------------------------------------------------------------------------------------------|
