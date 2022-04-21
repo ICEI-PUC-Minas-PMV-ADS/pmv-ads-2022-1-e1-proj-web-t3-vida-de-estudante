@@ -14,8 +14,8 @@ foi utilizado para hospedagem do repositório.
 Para a gestão do código fonte do software desenvolvido pela equipe será utilizado um processo baseado no Gitflow, mostrado na figura abaixo, que permite que a equipe trabalhe com correções de problemas ou atualizações sem a interrupção do trabalho em andamento (ATLASSIAN BITBUCKET, [<i>s. d.</i>]).
 
 <figure>
-<img src="https://user-images.githubusercontent.com/100447878/164069517-f747ce40-3bef-4ac5-9585-9d6259848bb4.png"
-<figcaption>Figura 1 - Fluxo de controle do código fonte no repositório Git</figcaption>
+  <img src="https://user-images.githubusercontent.com/100447878/164069517-f747ce40-3bef-4ac5-9585-9d6259848bb4.png"
+  <figcaption>Figura 1 - Fluxo de controle do código fonte no repositório Git</figcaption>
 <figure>
 
 ## Gerenciamento de Projeto
@@ -28,25 +28,29 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 Desta forma, a equipe está organizada da seguinte maneira:
 <ul>
-<li>Scrum Master: Daiane Procópio</li>
-<li>Product Owner: Joyce Carvalho</li>
-<li>Equipe de Desenvolvimento: Anna Freitas, Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina, Yam Leite</li>
-<li>Equipe de Design: Marilene Carvalho</li>
+  <li>Scrum Master: Daiane Procópio</li>
+  <li>Product Owner: Joyce Carvalho</li>
+  <li>Equipe de Desenvolvimento: Anna Freitas, Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina e Yam Leite</li>
+  <li>Equipe de Design: Marilene Carvalho</li>
 </ul>
 
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
 
-<ul><li>Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.</li>
-<li>To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.</li>
-<li>In progress: quando uma tarefa tiver sido iniciada, ela é movida para cá.</li>
-<li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li></ul>
+<ul>
+  <li>Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.</li>
+  <li>To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.</li>
+  <li>In progress: quando uma tarefa tiver sido iniciada, ela é movida para cá.</li>
+  <li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li>
+ </ul>
 
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/1 e é apresentado, no estado atual, na figura abaixo:
 
-![image](https://user-images.githubusercontent.com/100447878/164068727-6770a970-226a-48e7-ab79-6b24946d3ae7.png)
-<p>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</p>
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164068727-6770a970-226a-48e7-ab79-6b24946d3ae7.png"
+  <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
+</figure> 
 
 As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
 
