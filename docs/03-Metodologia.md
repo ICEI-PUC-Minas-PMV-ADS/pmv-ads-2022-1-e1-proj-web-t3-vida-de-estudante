@@ -52,6 +52,7 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
     <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
   
+<h3>Etiquetas</h3>
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
