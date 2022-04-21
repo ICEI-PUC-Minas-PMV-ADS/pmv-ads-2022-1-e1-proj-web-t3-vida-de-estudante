@@ -49,23 +49,25 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068727-6770a970-226a-48e7-ab79-6b24946d3ae7.png">
-  <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
+    <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
+  
+<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
+<ul>
+  <li>Documentação (Documentation)</li>
+  <li>Desenvolvimento (Development)</li>
+  <li>Infraestrutura (Infrastructure)</li>
+  <li>Bug (Erro no código)</li>
+  <li>Testes (Tests)</li>
+  <li>Gerência de Projetos (Project Management).</li>
+</ul>
 
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
-
-<ul><li>Documentação (Documentation)</li>
-<li>Desenvolvimento (Development)</li>
-<li>Infraestrutura (Infrastructure)</li>
-<li>Bug (Erro no código)</li>
-<li>Testes (Tests)</li>
-<li>Gerência de Projetos (Project Management).</li></ul>
-
-![image](https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png)
-
-<p>Figura 3 - Tela do esquema de cores e categorias</p>
-
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
+    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+</figure> 
+  
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
