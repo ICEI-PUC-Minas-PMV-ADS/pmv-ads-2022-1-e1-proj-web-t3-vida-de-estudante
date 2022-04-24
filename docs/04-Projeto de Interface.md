@@ -9,19 +9,27 @@ O projeto da interface foi desenvolvido de maneira que a organização dos eleme
 
 O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
 
-![image](https://user-images.githubusercontent.com/100447878/164073432-97370b51-f334-4c11-b68d-16509af219ef.png)
-<p>Figura 4 - Fluxo de telas do usuário</p>
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164073432-97370b51-f334-4c11-b68d-16509af219ef.png"
+    <figcaption>Figura 4 - Fluxo de telas do usuário
+</figure> 
+
 
 ## Wireframes
 
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 5. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
-<ul><li>Cabeçalho - local onde etsão dispostos os elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);</li>
-<li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-<li>Rodapé - apresenta os elementos de navegação principal, informações sobre os mantenedores do site e direitos autorais.</li></ul>
+<ul>
+  <li>Cabeçalho - local onde etsão dispostos os elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);</li>
+  <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
+  <li>Rodapé - apresenta os elementos de navegação principal, informações sobre os mantenedores do site e direitos autorais.</li>
+</ul>
 
-![image](https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png)
-<p>Figura 5 - Estrutura padrão do site</p>
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png"
+    <figcaption>Figura 5 - Estrutura padrão do site
+</figure> 
 <hr>
+
 <h3><b>Tela - Home-page</b></h3>
 <p>A tela de home-page mostra uma breve explicação sobre o projeto e os banners que remetem para as páginas de Livros e Tutorias.</p>
 
