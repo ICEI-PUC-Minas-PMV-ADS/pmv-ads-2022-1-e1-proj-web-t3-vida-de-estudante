@@ -27,6 +27,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema | sanar dúvidas que tenho sobre as matérias do curso com alunos que possam ajudar | para entender melhor as matérias e criar uma rede de contatos.|
 |Usuário do sistema | auxiliar estudantes que estejam iniciando na área  | ajudar alunos que apresentem dificuldades semelhantes às que eu já tive. |
 |Usuário do sistema |conseguir um certificado de horas extracurriculares | para agregar no currículo e computar para a formação.|
+|Usuário do sistema |no começo do curso já enfrento dificuldades nos exercícios e já quero sanar todas as dúvidas | estar apta para as avaliações do primeiro semestre e assim não enfrentar maiores dificuldades ao longo do curso|
+|Usuário do sistema | procuro livros que me ajudem a ter melhor compreensão da matéria  | tenho dificuldades em encontrar livros sobre determinadas matérias que tenham uma boa didática para iniciantes. |
 
 
 ## Requisitos
