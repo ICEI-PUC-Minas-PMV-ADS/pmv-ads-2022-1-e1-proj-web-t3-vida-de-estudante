@@ -58,7 +58,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela - Tutorias</b></h3>
-<p>A tela da página Tutorias apresenta as informações sobre os tutores, alunos, disciplinas e informações para contato.</p>
+<p>A tela da página Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164103593-d6f029fb-e76b-41b8-9336-5f2baf2aafcc.png"
