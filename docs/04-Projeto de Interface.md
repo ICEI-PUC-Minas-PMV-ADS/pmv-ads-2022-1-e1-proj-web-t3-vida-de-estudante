@@ -66,7 +66,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 </figure> 
 <hr>
 
-<h3><b>Tela – Sign in</b></h3>
+<h3><b>Tela – Login</b></h3>
 <p>A tela da página para o acesso à conta do usuário apresenta um campo para a inserção do e-mail e senha, e a funcionalidade para troca de senha, caso o usuário tenha esquecido a mesma.</p>
 
 <figure> 
