@@ -80,5 +80,5 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164103631-b62135af-59ad-42a5-b3da-44082b731c55.png"
-    <figcaption>Figura 11 - Tela de cadastro do usuári
+    <figcaption>Figura 11 - Tela de cadastro do usuário
 </figure>
