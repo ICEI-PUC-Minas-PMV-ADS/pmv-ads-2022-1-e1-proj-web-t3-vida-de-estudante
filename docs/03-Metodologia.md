@@ -48,7 +48,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2 e é apresentado, no estado atual, na figura abaixo:
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068727-6770a970-226a-48e7-ab79-6b24946d3ae7.png">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/img/Product%20backlog.png?raw=true">
     <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
   
@@ -56,12 +56,12 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
+  <li>Bug (Erro no código)</li>
   <li>Documentação (Documentation)</li>
   <li>Desenvolvimento (Development)</li>
+  <li>Gerência de Projetos (Project Management)</li>
   <li>Infraestrutura (Infrastructure)</li>
-  <li>Bug (Erro no código)</li>
   <li>Testes (Tests)</li>
-  <li>Gerência de Projetos (Project Management).</li>
 </ul>
 
 <figure> 
