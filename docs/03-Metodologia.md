@@ -57,8 +57,8 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
 
 <ul>
   <li>Bug (Erro no código)</li>
-  <li>Documentação (Documentation)</li>
   <li>Desenvolvimento (Development)</li>
+  <li>Documentação (Documentation)</li>
   <li>Gerência de Projetos (Project Management)</li>
   <li>Infraestrutura (Infrastructure)</li>
   <li>Testes (Tests)</li>
