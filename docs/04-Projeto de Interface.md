@@ -7,7 +7,7 @@ O projeto da interface foi desenvolvido de maneira que a organização dos eleme
 
 ## User Flow
 
-O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto.
+O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164073432-97370b51-f334-4c11-b68d-16509af219ef.png"
