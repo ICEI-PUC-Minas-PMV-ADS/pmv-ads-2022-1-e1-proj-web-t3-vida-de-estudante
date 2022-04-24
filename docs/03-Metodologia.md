@@ -91,4 +91,4 @@ necessidades da nossa solução.
 |Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/README.md  |
 |Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante#vida-de-estudante  |
 |Projeto de interface e wireframes | MarvelApp | https://marvelapp.com/prototype/i39bj37/screen/86143037 |
-|Gerenciamento do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/1 |
+|Gerenciamento do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2 |
