@@ -21,7 +21,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <ul>
   <li>Cabeçalho - local onde estão dispostos os elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);</li>
   <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
+  <li>Rodapé - apresenta elementos da navegação principal e informações sobre os direitos autorais.</li>
 </ul>
 
 <figure> 
