@@ -67,6 +67,6 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-O site utiliza a plataforma do <a href=https://www.heroku.com">Heroku</a> como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: (inserir URL do site quando estiver pronto).
+O site utiliza a plataforma do <a href="https://www.heroku.com"> Heroku </a> como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: (inserir URL do site quando estiver pronto).
 
 A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: (inserir URL quando estiver pronto).
