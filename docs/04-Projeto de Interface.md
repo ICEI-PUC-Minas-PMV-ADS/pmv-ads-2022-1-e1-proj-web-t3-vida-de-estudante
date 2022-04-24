@@ -19,9 +19,9 @@ O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário p
 
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 5. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 <ul>
-  <li>Cabeçalho - local onde etsão dispostos os elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);</li>
+  <li>Cabeçalho - local onde estão dispostos os elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);</li>
   <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-  <li>Rodapé - apresenta os elementos de navegação principal, informações sobre os mantenedores do site e direitos autorais.</li>
+  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
 </ul>
 
 <figure> 
