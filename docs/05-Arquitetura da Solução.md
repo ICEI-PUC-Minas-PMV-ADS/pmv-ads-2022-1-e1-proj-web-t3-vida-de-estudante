@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/04-Projeto%20de%20Interface.md"> Projeto de Interface</a></span>
 
-Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
+Nesta seção são apresentados os detalhes técnicos da solução, tratando seus componentes e ambiente de hospedagem.
 
 ## Diagrama de componentes
 
