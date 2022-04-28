@@ -19,7 +19,7 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
     <figcaption>Figura 5 - Estrutura padrão do site
 </figure> 
 <hr>
-<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, c2022). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
+<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/img/Marca-texto.png?raw=true">
