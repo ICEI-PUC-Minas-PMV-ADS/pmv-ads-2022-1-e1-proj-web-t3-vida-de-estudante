@@ -9,7 +9,7 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 
 <ul>
 <li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white.</li>
-<li>Font-family: Arial, Helvetica, sans-serif</li>
+<li>Font-family: Arial, Helvetica, sans-serif.</li>
 </ul>
   
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/README.md">aqui</a>. As imagens e ícones utilizadas no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/docs/img">aqui</a>.
