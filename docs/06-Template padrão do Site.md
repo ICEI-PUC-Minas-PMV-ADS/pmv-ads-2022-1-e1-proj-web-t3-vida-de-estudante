@@ -19,7 +19,7 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
     <figcaption>Figura 5 - Estrutura padrão do site
 </figure> 
 
-Para a criação do logotipo do site, foi utilizada a cor amarela, pois esta cor remete à aspectos da inteligência e criatividade. A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.
+<p>Para a criação do logotipo do site, foi utilizada a cor amarela, pois esta cor remete à aspectos da inteligência e criatividade. A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
 
 <figure> 
   <img src="#"
