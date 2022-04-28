@@ -4,6 +4,22 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção do menu responsivo.
+
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+
+Cores:
+Fonte:
+
+O código utilizado para a construção dos elementos citados pode ser consultado aqui. As imagens e ícones utilizadas no projeto está disponíveis aqui.
+
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png"
+    <figcaption>Figura 5 - Estrutura padrão do site
+</figure> 
+<hr>
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
