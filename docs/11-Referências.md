@@ -10,6 +10,8 @@ FIALHO, Lia Machado Fiuza; SOUSA, Francisca Genifer Andrade de. Juventudes e red
 
 OLIVEIRA, Clarissa Tochetto de; DIAS, Ana Cristina Garcia. Dificuldades na trajetória universitária e rede de apoio de calouros e formandos. <b>Psico</b>, v. 45, n. 2, p. 187-197, abr./jun. 2014. Disponível em: https://revistaseletronicas.pucrs.br/ojs/index.php/revistapsico/article/view/13347/11708. Acesso em: 05 mar. 2022.
 
+PATEL, Neil. <b>Psicologia das cores</b>: estudo e significado das cores (2021). 2021. Disponível em: https://neilpatel.com/br/blog/psicologia-das-cores-como-usar-cores-para-aumentar-sua-taxa-de-conversao/. Acesso em: 28 abrl. 2022.
+
 SOMMERVILLE, Ian. <b>Engenharia de software</b>. 10 ed. São Paulo: Pearson, 2019.
 
 UNIVERSIDADE DE BRASÍLIA. Decanato de Ensino de Graduação. <b>Tutoria</b>. c2021. Disponível em: http://deg.unb.br/tutoria-caa. Acesso em: 06 mar. 2022.
