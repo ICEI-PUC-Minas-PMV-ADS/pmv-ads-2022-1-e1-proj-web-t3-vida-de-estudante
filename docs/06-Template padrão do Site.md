@@ -16,14 +16,14 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png"
-    <figcaption>Figura X - Estrutura padrão do site
+    <figcaption>Figura 5 - Estrutura padrão do site
 </figure> 
 
 Para a criação do logotipo do site, foi utilizada a cor amarela, pois esta cor remete à aspectos da inteligência e criatividade. A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.
 
 <figure> 
   <img src="#"
-    <figcaption>Figura X - Logotipo da aplicação web Vida de Estudante
+    <figcaption>Figura 12 - Logotipo da aplicação web Vida de Estudante
 </figure> 
 
 
