@@ -1,0 +1,45 @@
+/* RESPONSIVO */
+
+@media only screen and (max-width: 750px) {
+    .servicos-home-lista,
+    .depoimentos-lista,
+    .sobre-corpo,
+    .servicos-corpo {
+      grid-template-columns: 1fr;
+      justify-items: center;
+    }
+  
+    .main,
+    .sobre,
+    .servicos {
+      height: 400px;
+    }
+  
+    .main {
+      background: url("/Imagens/capa.jpg") no-repeat center center;
+    }
+  
+    .servicos-home-lista li {
+      max-width: 388px;
+    }
+  
+    .depoimentos-lista {
+      padding: 0px;
+    }
+  
+    @media only screen and (max-width: 400px) {
+      .main h1 {
+        font-size: 1.5rem;
+      }
+  
+      .titulo {
+        font-size: 1.125rem;
+      }
+  
+      .depoimentos-lista li {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        text-align: center;
+      }
+    }
+  }
