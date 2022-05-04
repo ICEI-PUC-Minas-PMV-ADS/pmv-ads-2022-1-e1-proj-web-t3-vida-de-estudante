@@ -8,5 +8,5 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 
 ### [0.1.0] - 03/05/2022
 #### Adicionado
-- Adicionada a homepage.
+- Homepage: arquivos HTML, CSS, JS e imagens.
 
