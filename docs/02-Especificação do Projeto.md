@@ -21,8 +21,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Usuário do sistema | ajudar estudantes da área de tecnologia que estão com dificuldades nos estudos | para que recebam orientações e não sejam afetados em seu desempenho acadêmico. |
-|Usuário do sistema  | participar de uma atividade extra que emita certificados | para cumprir os créditos necessários para concluir minha graduação. |
+|Luiz Campos | ajudar estudantes da área de tecnologia que estão com dificuldades nos estudos | para que recebam orientações e não sejam afetados em seu desempenho acadêmico. |
+|Luiz Campos | participar de uma atividade extra que emita certificados | para cumprir os créditos necessários para concluir minha graduação. |
 |Usuário do sistema | acessar os materiais do curso de uma maneira mais fácil | para otimizar meu tempo de estudo e entender melhor o conteúdo. |
 |Usuário do sistema | sanar dúvidas que tenho sobre as matérias do curso com alunos que possam ajudar | para entender melhor as matérias e criar uma rede de contatos.|
 |Usuário do sistema | auxiliar estudantes que estejam iniciando na área  | ajudar alunos que apresentem dificuldades semelhantes às que eu já tive. |
