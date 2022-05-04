@@ -6,12 +6,17 @@ Nesta seção são apresentados os detalhes técnicos da solução, tratando seu
 
 ## Diagrama de componentes
 
+Os componentes que fazem parte da solução são apresentados na figura abaixo:
+
+<img src="https://user-images.githubusercontent.com/100447878/166702854-f5956a91-0f18-43a3-8d60-205eefe8511c.gif" alt= "Navegador e servidor" style="width: 45%;height:45%;">
+<p>Figura 12 - Arquitetura da solução</p>
+
 A solução implementada conta com os seguintes módulos:
 
 <dl>
   <dt>Navegador - Interface básica do sistema:</dt>
     <dd>Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.</dd>
-    <dd>Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON.</dd>
+    <dd>Local Storage - armazenamento mantido no navegador, onde são implementados bancos de dados baseados em JSON.</dd>
   <dt>Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.</dt>
 </dl>
 
