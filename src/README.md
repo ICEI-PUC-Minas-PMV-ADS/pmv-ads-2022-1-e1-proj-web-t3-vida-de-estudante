@@ -10,5 +10,3 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 #### Adicionado
 - Adicionada a homepage.
 
-- ####[0.1.1] - Cadastro
-
