@@ -38,3 +38,5 @@ Portanto, a criação de uma aplicação web para a resolução deste problema f
 Embora os desafios citados possam ocorrer desde o início da vida escolar dos estudantes, o foco deste trabalho está no público de graduação.
 
 Assim, estabeleceu-se como público-alvo desta solução homens e mulheres entre 18 e 24 anos, pois além de terem maior autonomia em seus estudos, eles também enfrentam os obstáculos da transição para a vida universitária, como a necessidade de rápida adaptação, e tais mudanças podem afetar o seu desempenho acadêmico.
+
+Além dos alunos de graduação com o perfil citado acima, o projeto também é voltado para ex-alunos que pretendem atuar como tutores e contribuir com o aprendizado dos alunos de graduação.
