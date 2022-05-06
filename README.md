@@ -18,7 +18,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 * Yam Generoso Leite
 
 
-## Orientador
+## Orientadora
 
 * Joyce Christina de Paiva Carvalho
 
