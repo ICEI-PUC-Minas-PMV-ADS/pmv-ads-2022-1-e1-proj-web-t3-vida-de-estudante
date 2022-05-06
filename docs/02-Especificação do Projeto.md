@@ -49,15 +49,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| O site deve permitir ao usuário visualizar os detalhes do livro.   | MÉDIA |
 |RF-007| O site deve permitir salvar livros favoritos.   | MÉDIA |
 |RF-008| O site deve permitir verificar os livros salvos como favoritos.  | MÉDIA |
-|RF-009| O site deve emitir certificados para as tutorias oferecidas.   | MÉDIA |
-|RF-010| O site deve permitir o envio de mensagens para qualquer usuário cadastrado no site.    | MÉDIA |
-|RF-011| O site deve permitir ao usuário criar uma lista de amigos.   | MÉDIA |
-|RF-012| O site deve permitir ao usuário adicionar contatos à sua lista de amigos.  | MÉDIA |
-|RF-013| O site deve permitir fazer comentários sobre os livros.   | BAIXA |
-|RF-014| O site deve permitir fazer comentários sobre os tutores.   | BAIXA |
-|RF-015| O site deve fornecer a opção de exibir comentários de livros.  | BAIXA |
-|RF-016| O site deve fornecer a opção de exibir comentários sobre os tutores.   | BAIXA |
-|RF-017| O site deverá apresentar em cada função do sistema (tutoria e troca de livros) 4 botões relativos às 4 áreas de conhecimento em que serão subdivididas as funções, devendo os botões redirecionar o usuário para interface relativa àquela área.  | BAIXA |
+|RF-009| O site deve permitir fazer comentários sobre os livros.   | BAIXA |
+|RF-010| O site deve permitir fazer comentários sobre os tutores.   | BAIXA |
+|RF-011| O site deve fornecer a opção de exibir comentários de livros.  | BAIXA |
+|RF-012| O site deve fornecer a opção de exibir comentários sobre os tutores.   | BAIXA |
 
 
 ### Requisitos Não Funcionais
@@ -68,15 +63,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O site deverá ser responsivo permitindo a visualização em dispositivos diversos de forma adequada. | ALTA | 
 |RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | MÉDIA | 
 |RNF-004| O site deve ser compatível com os navegadores mais utilizados do mercado. | ALTA | 
-|RNF-005| O site deve estar disponível no período de 24 horas, 7 dias por semana. | ALTA | 
-|RNF-006| O site deve conter um sistema de backup para evitar perdas de dados caso ocorram falhas no sistema. | ALTA | 
-|RNF-007| O site deve ter alta performance em 95% do tempo. | ALTA | 
-|RNF-008| O site deve atender às normas legais, tais como padrões e leis. | ALTA | 
-|RNF-009| O software deve ocupar no máximo 5% da capacidade do CPU. | ALTA | 
-|RNF-010| O software deve ocupar 3% da memória RAM do dispositivo. | ALTA | 
-|RNF-011| Ao contabilizar 1 hora de acesso por um usuário registrado como tutor, o certificado de horas extras deve ser emitido em, no máximo, 10 minutos. | MÉDIA | 
-|RNF-012| O sistema deverá ser compatível com as plataformas Windows 8 ou 10, Linux e MacOS. | ALTA | 
-|RNF-013| A resposta da funcionalidade de login do sistema não poderá ser superior a 5 segundos. | BAIXA | 
 
 
 ## Restrições
