@@ -2,7 +2,7 @@
 
 A transição do ambiente escolar para a vida acadêmica traz mudanças impactantes na vida dos jovens. Segundo Oliveira e Dias (2014, p. 187), “essas mudanças podem constituir  dificuldades para os alunos, que, frequentemente, buscam auxílio na sua rede de apoio para lidar com as mesmas.”
 
-Dentre as dificuldades enfrentadas, observa-se a falta de recursos financeiros para à aquisição de fontes de informações e o acompanhamento dos conhecimentos necessários para o desenvolvimento acadêmico dos discentes, visto que durante a graduação os estudos são realizados de maneira  autônoma ,sumariamente, pelos estudantes.
+Dentre as dificuldades enfrentadas, observa-se a falta de recursos financeiros para à aquisição de fontes de informações e o acompanhamento dos conhecimentos necessários para o desenvolvimento acadêmico dos discentes, visto que durante a graduação os estudos são realizados de maneira mais autônoma pelos estudantes.
 
 Dessa forma, torna-se necessário cobrir essa lacuna enfrentada pelos estudantes de graduação, para que o seu aproveitamento acadêmico não seja afetado pelas adversidades citadas.
 
