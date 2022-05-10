@@ -42,8 +42,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Luciano Silva | sanar dúvidas que tenho sobre as matérias do curso com alunos que possam ajudar | para entender melhor as matérias e criar uma rede de contatos.|
 |Luciano Silva | auxiliar estudantes que estejam iniciando na área  | ajudar alunos que apresentem dificuldades semelhantes às que eu já tive. |
 |Luciano Silva |conseguir um certificado de horas extracurriculares | para agregar no currículo e computar para a formação.|
-|Usuário do sistema |no começo do curso já enfrento dificuldades nos exercícios e já quero sanar todas as dúvidas | estar apta para as avaliações do primeiro semestre e assim não enfrentar maiores dificuldades ao longo do curso|
-|Usuário do sistema | procuro livros que me ajudem a ter melhor compreensão da matéria  | tenho dificuldades em encontrar livros sobre determinadas matérias que tenham uma boa didática para iniciantes. |
+|Vanessa Alves |no começo do curso já enfrento dificuldades nos exercícios e já quero sanar todas as dúvidas | estar apta para as avaliações do primeiro semestre e assim não enfrentar maiores dificuldades ao longo do curso|
+|Vanessa Alves | procuro livros que me ajudem a ter melhor compreensão da matéria  | tenho dificuldades em encontrar livros sobre determinadas matérias que tenham uma boa didática para iniciantes. |
 |Usuário do sistema | quero poder consultar livros, para que eu possa ter melhor conhecimento na área onde estou atuando  | quero poder ampliar meu conhecimento e conhecer pessoas com a mesma dificuldade que eu. |
 |Usuário do sistema | compartilhar com os outros estudantes conhecimentos, e assim poder ajudar uns aos outros  | para que possamos nos conectar e até poder formar amizades e grupos de estudos. |
 
