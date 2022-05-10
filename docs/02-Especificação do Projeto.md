@@ -32,7 +32,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Vanessa Alves | procuro livros que me ajudem a ter melhor compreensão da matéria  | tenho dificuldades em encontrar livros sobre determinadas matérias que tenham uma boa didática para iniciantes. |
 |Lívia Moreira | quero poder consultar livros, para que eu possa ter melhor conhecimento na área onde estou atuando  | quero poder ampliar meu conhecimento e conhecer pessoas com a mesma dificuldade que eu. |
 |Lívia Moreira | compartilhar com os outros estudantes conhecimentos, e assim poder ajudar uns aos outros  | para que possamos nos conectar e até poder formar amizades e grupos de estudos. |
-
+|Caio Marques | aprender sobre programação e cibersegurança  | para aplicar o conhecimento na prática e com isso desenvolver softwares. |
 
 ## Requisitos
 
