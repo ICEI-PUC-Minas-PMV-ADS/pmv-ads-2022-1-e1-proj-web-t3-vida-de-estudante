@@ -9,8 +9,9 @@ O projeto da interface foi desenvolvido de maneira que a organização dos eleme
 
 O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
 
+  ![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/81182674/167677275-fc7986e2-a743-4fef-a043-fff7dfec6db8.png)
+  
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164073432-97370b51-f334-4c11-b68d-16509af219ef.png"
     <figcaption>Figura 4 - Fluxo de telas do usuário
 </figure> 
 
@@ -31,54 +32,54 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela - Home-page</b></h3>
-<p>A tela de home-page mostra uma breve explicação sobre o projeto e os banners que remetem para as páginas de Livros e Tutorias.</p>
+<p>A tela de home-page apresenta banners que remetem para as páginas de Livros, Tutorias e Cadastro, depoimentos de estudantes e uma breve descrição sobre o projeto. </p>
+  
+![homepage](https://user-images.githubusercontent.com/81182674/167677975-53f61b97-4979-441b-813c-036c3cd153bf.png)
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164103270-effd2bef-59ad-4f11-8f5d-992d1fce148f.png"
-    <figcaption>Figura 6 - Tela home-page
+  <figcaption>Figura 6 - Tela home-page
 </figure> 
 <hr>
 
-<h3><b>Tela – Sobre</b></h3>
-<p>A tela da página Sobre apresenta informações sobre a aplicação web “Vida de Estudante”, como objetivos do projeto e orientações para o uso da aplicação.</p>
-
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164103532-492cd669-e8c0-4e3c-a016-b4089e585f0a.png"
-    <figcaption>Figura 7 - Tela da página Sobre
-</figure> 
-<hr>
 
 <h3><b>Tela - Livros</b></h3>
 <p>A tela da página Livros apresenta os livros disponíveis para troca, as informações sobre os livros, a funcionalidade para marcar o livro como favorito e o contato do proprietário do livro.</p>
-
+  
+![Untitled Diagram-Page-2 drawio](https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png)
+  
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164103569-22336d93-a0ad-4cd2-8797-b30f28400408.png"
-    <figcaption>Figura 8 - Tela de Livros
+  <figcaption> Figura 8 - Tela de Livros
 </figure> 
 <hr>
 
 <h3><b>Tela - Tutorias</b></h3>
 <p>A tela da página Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
 
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164103593-d6f029fb-e76b-41b8-9336-5f2baf2aafcc.png"
-    <figcaption>Figura 9 - Tela de Tutorias
+ ![tutoria](https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png)
+
+  
+<figure>  
+    <figcaption>Figura 9 - Tela de Tutorias      
 </figure> 
 <hr>
 
 <h3><b>Tela – Login</b></h3>
 <p>A tela da página para o acesso à conta do usuário apresenta um campo para a inserção do e-mail e senha, e a funcionalidade para troca de senha, caso o usuário tenha esquecido a mesma.</p>
+  
+  ![login](https://user-images.githubusercontent.com/81182674/167681381-ee88eeee-ffd8-428f-bfb2-67106c0d6046.png)
+
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164103617-bbbd9668-9937-42fe-ac35-f85cf8d5abfe.png"
     <figcaption>Figura 10 - Tela de acesso à conta do usuário
 </figure>
 <hr>
 
 <h3><b>Tela – Cadastro</b></h3>
-<p>A tela da página de cadastro apresenta os campos para a inserção das informações pessoais do usuário: nome completo e e-mail, e para a criação e confirmação de uma senha.</p>
+<p>A tela da página de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: nome completo,e-mail,telefone,instituição de ensino na qual estuda, endereço, campo de criação e confirmação de senha.</p>
+  
+  ![cadastro](https://user-images.githubusercontent.com/81182674/167681719-694701df-5bd7-4615-9562-b106001e40db.png)
+
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164103631-b62135af-59ad-42a5-b3da-44082b731c55.png"
     <figcaption>Figura 11 - Tela de cadastro do usuário
 </figure>
