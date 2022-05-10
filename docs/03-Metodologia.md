@@ -30,8 +30,8 @@ Desta forma, a equipe está organizada da seguinte maneira:
 <ul>
   <li>Scrum Master: Daiane Procópio</li>
   <li>Product Owner: Joyce Carvalho</li>
-  <li>Equipe de Desenvolvimento: Anna Freitas, Fernanda Coura, Paulo Henrique da Cruz Alves, Rúbia Karina e Yam Leite</li>
-  <li>Equipe de Design: Marilene Carvalho</li>
+  <li>Equipe de Desenvolvimento: Anna Freitas, Fernanda Coura, Rúbia Karina e Yam Leite</li>
+  <li>Equipe de Design: Paulo Henrique da Cruz Alves</li>
 </ul>
 
 ### Processo
