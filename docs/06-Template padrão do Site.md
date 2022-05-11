@@ -8,8 +8,9 @@ O layout padrão do site foi construído com as linguagens de marcação HTML e 
 As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
 
 <ul>
-<li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white;</li>
-<li>Font-family: Arial, Helvetica, sans-serif.</li>
+<li>Cores: RGB: #3E497A, whitesmoke, goldenrod, white e RBG (0, 0, 0, 0.08);</li>
+<li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
+<li>Font-size: 0.875rem, 1.050 rem, 1.125rem, 1.5rem, 2.25rem, 15px e 28px. </li>
 </ul>
   
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/src">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/docs/img">aqui</a>.
