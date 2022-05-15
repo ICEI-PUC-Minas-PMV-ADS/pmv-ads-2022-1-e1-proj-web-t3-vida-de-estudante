@@ -27,8 +27,10 @@ O acesso a tela de livros poderá ser feito através do menu “Entrar”. As es
 Requisito atendido
 
  RF-03 O site deve permitir ao usuário fazer o cadastro de livros
+ 
  RF-006 O site deve apresentar, para cada livro, uma imagem correspondente à capa
-RF-007	O site deve permitir ao usuário visualizar os detalhes do livro
+ 
+ RF-007	O site deve permitir ao usuário visualizar os detalhes do livro
 
 
 Artefatos da funcionalidade
