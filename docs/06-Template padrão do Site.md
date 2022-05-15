@@ -24,14 +24,14 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <p>Exibe informações sobre os livros, a funcionalidade para marcar o livro como favorito e o contato do proprietário do livro.</p>
 <figure> 
   <img src="https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png">
-  <figcaption> Figura 8 - Tela de Livros
+  <figcaption> Figura 7 - Tela de Livros
 </figure> 
 
 <h3><b>Tela de visualização dos tutores e disciplinas</b></h3>
 <p>Exibe informações sobre os tutores/alunos, disciplinas e contato.</p>
 <figure> 
   <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png">
-  <figcaption>Figura 9 - Tela de Tutorias      
+  <figcaption>Figura 8 - Tela de Tutorias      
 </figure> 
 <hr>
   
