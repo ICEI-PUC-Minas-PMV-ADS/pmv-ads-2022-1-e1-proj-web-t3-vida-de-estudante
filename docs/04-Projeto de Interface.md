@@ -75,7 +75,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela – Cadastro</b></h3>
-<p>A tela da página de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: nome completo,e-mail,telefone,instituição de ensino na qual estuda, endereço, campo de criação e confirmação de senha.</p>
+<p>A tela da página de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: nome completo, e-mail, telefone, instituição de ensino na qual estuda, endereço, campo de criação e confirmação de senha.</p>
   
   ![cadastro](https://user-images.githubusercontent.com/81182674/167681719-694701df-5bd7-4615-9562-b106001e40db.png)
 
