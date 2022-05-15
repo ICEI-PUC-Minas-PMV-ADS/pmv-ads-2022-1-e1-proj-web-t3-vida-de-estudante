@@ -15,7 +15,9 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
 RF-03 O site deve permitir ao usuário fazer o cadastro de livros
+
 RF-05 O site deve apresentar, para cada livro, uma imagem correspondente à capa
+
 RF-06 O site deve permitir ao usuário visualizar os detalhes do livro
 
 O acesso a tela de livros poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML e CSS.
