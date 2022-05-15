@@ -48,7 +48,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 ![Untitled Diagram-Page-2 drawio](https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png)
   
 <figure> 
-  <figcaption> Figura 8 - Tela de Livros
+  <figcaption> Figura 7 - Tela de Livros
 </figure> 
 <hr>
 
@@ -59,7 +59,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
   
 <figure>  
-    <figcaption>Figura 9 - Tela de Tutorias      
+    <figcaption>Figura 8 - Tela de Tutorias      
 </figure> 
 <hr>
 
@@ -70,7 +70,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 10 - Tela de acesso à conta do usuário
+    <figcaption>Figura 9 - Tela de acesso à conta do usuário
 </figure>
 <hr>
 
@@ -81,5 +81,5 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 11 - Tela de cadastro do usuário
+    <figcaption>Figura 10 - Tela de cadastro do usuário
 </figure>
