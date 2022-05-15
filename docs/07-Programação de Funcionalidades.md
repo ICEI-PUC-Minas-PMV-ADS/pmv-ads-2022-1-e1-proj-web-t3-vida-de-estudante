@@ -55,3 +55,42 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-
 Instruções de acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
 2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros.
+
+
+
+
+
+#### Tela de Cadastro(RF-001)
+
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de cadastro: 
+
+
+![Untitled Diagram-Page-1 drawio](https://user-images.githubusercontent.com/81182674/168495024-300e1d7f-128d-4243-9561-8499c0ddf770.png)
+
+
+
+*Requisito atendido:*
+
+RF-001: O site deve permitir ao usuário cadastrar uma conta.
+
+
+*Artefatos da funcionalidade:*
+
+cadastre-se.html
+
+cadastro.css
+
+
+*Estrutura de Dados*
+
+[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/cadastro/cadastre-se.html)
+
+
+*Instruções de acesso:*
+
+Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+
+Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
+
