@@ -10,3 +10,10 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 #### Adicionado
 - Homepage: arquivos HTML, CSS, JS e imagens.
 
+### [0.1.1] - 15/05/2022
+#### Adicionado
+- Homepage: arquivos HTML, CSS, JS e imagens.
+- Livros: arquivos HTML, CSS, JS e imagens.
+- Tutorias: arquivo HTML.
+- Cadastro: arquivos HTML e CSS.
+- Login: arquivos HTML e CSS.
