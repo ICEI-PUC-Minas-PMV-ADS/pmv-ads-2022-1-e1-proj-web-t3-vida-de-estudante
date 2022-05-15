@@ -35,7 +35,7 @@ Requisito atendido
 
 Artefatos da funcionalidade
 
-●	PaginaDeLivros.html
+●	PaginaDeLivros.html 
 ●	style(1).css
 
 Estrutura de Dados
@@ -94,3 +94,32 @@ Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
 
 Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
 
+
+### Tela de Login (RF-002)
+
+O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de login: 
+
+
+![pagina-login](https://user-images.githubusercontent.com/98122346/168496445-2cd1d62a-962c-47b3-b6f1-bb6ba6b55c54.jpeg)
+
+
+#### Requisito atendido
+
+RF-002: O site deve permitir ao usuário fazer o login da sua conta.
+
+#### Artefatos da funcionalidade
+
+●	login.html <br>
+●	style-login.css
+
+#### Estrutura de Dados
+
+●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/pagina-login/login.html)
+
+
+#### Instruções de acesso
+
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
