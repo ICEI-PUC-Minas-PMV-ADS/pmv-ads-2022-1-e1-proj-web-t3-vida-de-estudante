@@ -5,15 +5,15 @@
 
 
 
-### Tela de Livros(RF-004,RF-006,RF-007)
+### Tela de Livros (RF-004,RF-006,RF-007)
 
 O acesso a tela de livros poderá ser feito através da opção de menu “Livros”. As estruturas de dados foram baseadas em HTML e CSS.
 
 Exemplo de tela de Livros:
 
+![Captura de Tela 2022-05-15 às 22 13 52](https://user-images.githubusercontent.com/100447878/168503885-84c6db0a-3134-40e0-9366-eda47a904864.png)
 
 
- 
 #### Requisitos atendidos
 
  RF-004 O site deve permitir ao usuário fazer o cadastro de livros
@@ -44,7 +44,7 @@ Exemplo de tela de Livros:
 
 
 
-### Tela de Cadastro(RF-001)
+### Tela de Cadastro (RF-001)
 
 O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML e CSS.
 
@@ -108,7 +108,7 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
 2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
 
-### Tela de Tutores(RF-005)
+### Tela de Tutores (RF-005)
 
 O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML e CSS.
 
