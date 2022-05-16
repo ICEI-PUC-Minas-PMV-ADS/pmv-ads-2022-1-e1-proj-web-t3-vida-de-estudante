@@ -107,3 +107,34 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
 2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
+
+### Tela de Tutores(RF-005)
+
+O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de Tutores: 
+![image](https://user-images.githubusercontent.com/101907319/168500482-ee35c4ed-f244-4db4-9f75-3a3a1847787d.png)
+
+### Requisito atendido
+
+RF-005: O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.
+
+### Artefatos da funcionalidade
+
+●	Código Tutoria tentativa 1
+
+### Estrutura de Dados
+
+●	tutores.html
+
+### Instruções de acesso
+
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+	
+2.	Clicar na opção “Tutores” no canto superior direito da tela (na barra de Menu), e terá acesso a página de Tutores.
+
+
+
+
+
+
