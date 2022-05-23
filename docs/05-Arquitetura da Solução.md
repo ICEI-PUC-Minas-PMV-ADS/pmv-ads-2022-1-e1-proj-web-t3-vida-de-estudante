@@ -8,7 +8,7 @@ Nesta seção são apresentados os detalhes técnicos da solução, tratando seu
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-<img src="https://user-images.githubusercontent.com/100447878/166702854-f5956a91-0f18-43a3-8d60-205eefe8511c.gif" alt= "Navegador e servidor" style="width: 50%;height:50%;">
+<img src="https://user-images.githubusercontent.com/100447878/166702854-f5956a91-0f18-43a3-8d60-205eefe8511c.gif" alt= "Navegador e servidor" style="width: 300px;height:300px;">
 <p>Figura 11 - Arquitetura da solução</p>
 
 A solução implementada conta com os seguintes módulos:
