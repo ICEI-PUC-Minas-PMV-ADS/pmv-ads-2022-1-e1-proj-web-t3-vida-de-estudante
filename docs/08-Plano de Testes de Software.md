@@ -98,3 +98,37 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
  </tr>
 </table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar o cadastro dos livros</td>
+  <td>
+   <ul>
+    <li>RF-004:	O site deve permitir ao usuário fazer o cadastro de livros.</li>
+   </ul>
+  </td>
+  <td>Verificar se todas as informações sobre livros cadastradas pelos usuários são disponibilizadas na página Livros</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar na página Login.</li>
+    <li>Fazer o login, inserindo o e-mail previamente cadastrado e a senha.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em Cadastrar livro.</li>
+    <li>Inserir as informações e imagem da capa do livro a ser cadastrado.</li>
+    <li>Clicar no botão Cadastrar.</li>
+    <li>Visualizar se as informações cadastradas foram disponibilizadas na página Livros.</li>
+   </ol>
+   </td>
+  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros após o cadastro.</td>
+ </tr>
+</table>
