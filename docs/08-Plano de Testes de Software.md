@@ -65,7 +65,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Digitar no filtro de pesquisa algum dado presente na página Livros e verificar se o resultado é exibido na página.</li>
    </ol>
    </td>
-  <td>Os dados inseridos no filtro de pesquisa devem mostrar o livro onde há o dado informado .</td>
+  <td>Os dados inseridos no filtro de pesquisa devem mostrar o livro onde há o dado informado.</td>
  </tr>
 </table>
 
