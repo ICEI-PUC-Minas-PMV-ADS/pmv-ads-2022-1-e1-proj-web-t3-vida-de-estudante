@@ -69,3 +69,32 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar detalhes dos livros</td>
+  <td>
+   <ul>
+    <li>RF-006:	O site deve apresentar, para cada livro, uma imagem correspondente à capa.</li>
+    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
+   </ul>
+  </td>
+  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página Livros</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar na página Livros.</li>
+    <li>Visualizar as informações referentes aos livros disponíveis na página.</li>
+   </ol>
+   </td>
+  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
+ </tr>
+</table>
