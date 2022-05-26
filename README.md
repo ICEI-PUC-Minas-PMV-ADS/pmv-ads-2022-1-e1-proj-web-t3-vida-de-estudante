@@ -15,7 +15,6 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 * Fernanda Augusta de Barcelos Coura
 * Paulo Henrique da Cruz Alves
 * Rúbia Karina Prado Costa
-* Yam Generoso Leite
 
 
 ## Orientadora
