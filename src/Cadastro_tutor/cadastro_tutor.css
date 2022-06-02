@@ -1,0 +1,289 @@
+html,
+body {
+    height: 100%;
+}
+
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper {
+    display: flex;
+    flex-grow: 1;
+    /* justify-content: center; */
+}
+
+form {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-grow: 1;
+    margin-right: 400px;
+}
+
+.formulario-container {
+    border: 1px black solid;
+    border-radius: 12px;
+    background-color: white;
+    height: max-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.formulario-container > div + div {
+    border-top: 1px black solid;
+}
+
+.input-container, .titulo-container, .cadastro {
+    width: 600px;
+    min-height: 60px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.input-container > label {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.input-border {
+    border: 1px black solid;
+    border-radius: 5px;
+}
+
+.input-container > input {
+    margin-top: 10px;
+}
+
+.menu-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 8px;
+    border: 1px black solid;
+    border-radius: 1px;
+    /* width: 13%; */
+    align-items: center;
+    background-color: white;
+}
+
+.menu-container a+a {
+    margin-top: 20px;
+}
+
+.menu-container>a {
+    color: black;
+    width: 200px;
+    padding: 8px;
+}
+
+.menu-container img {
+    display: inline-block;
+}
+
+aside {
+    margin-left: 200px;
+}
+
+.cadastro, .titulo-container {
+    align-items: center;
+}
+
+.cadastro > input {
+    border: 1px black solid;
+    border-radius: 10px;
+    padding: 6px 8px;
+    background-color: #3E497A;
+    color: whitesmoke;
+    font-weight: bolder;
+}
+
+.ativo {
+    background-color: azure;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+    .wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    aside {
+        margin-left: 0;
+        width: 400px;
+    }
+
+    .menu-container {
+        margin-left: 0;
+    }
+
+    form {
+        margin-right: 0;
+    }
+
+    .input-container {
+        width: 400px;
+    }
+
+    .titulo-container {
+        width: 400px;
+    }
+
+    .cadastro {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 900px) and (min-width: 1100px) {
+    .wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    aside {
+        margin-right: 100%;
+        width: 400px;
+    }
+
+    .menu-container {
+        margin-left: 0;
+    }
+
+    form {
+        margin-right: 0;
+        margin-left: 200px;
+    }
+
+    .input-container {
+        width: 400px;
+    }
+
+    .titulo-container {
+        width: 400px;
+    }
+
+    .cadastro {
+        width: 400px;
+    }
+}
+
+/* @media screen and (max-width: 600px) and (min-width: 900px) {
+    .wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    aside {
+        margin-left: 0;
+    }
+
+    .menu-container {
+        margin-left: 0;
+    }
+
+    form {
+        margin-right: 0;
+    }
+
+    .input-container {
+        width: 400px;
+    }
+
+    .titulo-container {
+        width: 400px;
+    }
+
+    .cadastro {
+        width: 400px;
+    }
+} */
+
+ /* @media screen and (max-width: 300px) {
+    .wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    aside {
+        margin-left: 0;
+        width: 100px;
+    }
+
+    .menu-container {
+        margin-left: 0;
+    }
+
+    form {
+        margin-right: 0;
+    }
+
+    .input-container {
+        width: 400px;
+    }
+
+    .titulo-container {
+        width: 100px;
+    }
+
+    .cadastro {
+        width: 400px;
+    }
+} */
+
+
+/* and (min-width: 450px) */
+
+/* @media screen and (min-width: 600px) {
+
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 992px) {
+
+}
+
+@media screen and (min-width: 1200px) {
+
+} */
+
+
+/* @media screen and (max-width: 600px) {
+    .wrapper {
+        display: grid;
+        grid-template-columns: 250px 1fr;
+        grid-template-rows: 150px 1fr 120px;
+        grid-template-areas: "cabecalho cabecalho"
+                            "periferico conteudo"
+                            "rodape rodape";
+    }
+
+} */
+
+
+
+
+/* .cadastro {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100px;
+
+} */

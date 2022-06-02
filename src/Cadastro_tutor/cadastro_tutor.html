@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Vida de Estudante</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="cadastro_tutor.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vida de Estudante</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="#">Vida de Estudante</a>
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+                <li><a href="#">Início</a></li>
+                <li><a href="#sobre-conteudo">Sobre</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Tutorias</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="wrapper">
+        <aside>
+            <div class="menu-container">
+                <a href="#"><img src="./img/book.svg" alt="icone livo">Cadastro de Livros</a>
+                <a href="#" class="ativo"><img src="./img/user.svg" alt="icone usuario">Cadastro de Tutorias</a>
+            </div>
+        </aside>
+
+        <form action="cadastro_tutor" method="post">
+            <div class="formulario-container">
+                <div class="titulo-container">
+                    <h1>Cadastro Tutoria</h1>
+                </div>
+                <div class="input-container">
+                    <label for="nome_autor">Tutor</label>
+                    <input type="text" class="input-border" id="nome_autor" placeholder="Insira o nome completo" required>
+                </div>
+                <div class="input-container">
+                    <label for="sobre_min">Tutor, fale brevemente sobre você</label>
+                    <textarea name="sobre_min" class="input-border" id="sobre_min" rows="5"></textarea>
+                </div>
+                <div class="input-container">
+                    <label for="area_conhecimento">Qual(ais) são suas áreas de conhecimento?</label>
+                    <textarea name="disponibilidade" class="input-border" id="disponibilidade" rows="5"></textarea>
+                </div>
+                <div class="input-container">
+                    <label for="disponibilidade">Insira abaixo os dias e horários que você tem disponibilidade para ministrar as tutorias</label>
+                    <textarea name="disponibilidade" class="input-border" id="disponibilidade" rows="5"></textarea>
+                </div>
+                <div class="input-container">
+                    <label for="contato">Contato</label>
+                    <input type="email" class="input-border" id="contato" placeholder="E-mail" required>
+                    <input type="number" class="input-border" id="contato" placeholder="Telefone" required>
+                </div>
+                <div class="cadastro">
+                    <input type="submit" id="cadastrar" value="Cadastrar" required>
+                </div>
+
+            </div>
+    </div>
+
+    </form>
+
+    <footer class="rodape">
+        <p>Copyright &#169 2022 Vida de Estudante | Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>

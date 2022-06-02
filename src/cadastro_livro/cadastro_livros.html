@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Vida de Estudante</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="cadastro_livros.css">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vida de Estudante</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="#">Vida de Estudante</a>
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+                <li><a href="#">Início</a></li>
+                <li><a href="#sobre-conteudo">Sobre</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Tutorias</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="wrapper">
+        <aside>
+            <div class="menu-container">
+                <a href="#" class="ativo"><img src="./img/book.svg" alt="icone livo">Cadastro de Livros</a>
+                <a href="#"><img src="./img/user.svg" alt="icone usuario">Cadastro de Tutorias</a>
+            </div>
+        </aside>
+
+        <form action="cadastro_livros" method="post">
+            <div class="formulario-container">
+                <div class="titulo-container">
+                    <h1>Cadastro de Livros</h1>
+                </div>
+                <div class="input-container">
+                    <label for="nome">Título</label>
+                    <input type="text" class="input-border" id="nome" placeholder="Título do livro" required>
+                </div>
+                <div class="input-container">
+                    <label for="nome_autor">Nome do autor</label>
+                    <input type="text" class="input-border" id="nome_autor" placeholder="Insira o nome do autor"
+                        required>
+                </div>
+                <div class="input-container">
+                    <label for="resumo">Resumo</label>
+                    <textarea name="resumo" class="input-border" id="resumo" rows="5"></textarea>
+                </div>
+                <div class="input-container">
+                    <label for="editora">Editora</label>
+                    <input type="text" class="input-border" id="editora" placeholder="Insira a editora" required>
+                </div>
+                <div class="input-container">
+                    <label for="ano_lancamento">Data de publicação</label>
+                    <input type="date" class="input-border" id="ano_lancamento" required>
+                </div>
+                <div class="input-container">
+                    <label for="conhecimento">Área de conhecimento</label>
+                    <input type="text" class="input-border" id="conhecimento" placeholder="Qual a área de conhecimento?"
+                        required>
+                </div>
+                <div class="input-container">
+                    <label for="estado">Estado de Conservação</label>
+                    <select name="estado" class="input-border" id="estado" required>
+                        <option value="" selected disabled>Selecione uma opção</option>
+                        <option value="perfeito">Perfeito</option>
+                        <option value="razoavel">Razoável</option>
+                        <option value="ruim">Ruim</option>
+                    </select>
+                </div>
+                <div class="cadastro">
+                    <input type="submit" id="cadastrar" value="Cadastrar" required>
+                </div>
+            </div>
+    </div>
+
+    </form>
+
+    <footer class="rodape">
+        <p>Copyright &#169 2022 Vida de Estudante | Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>
