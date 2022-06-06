@@ -9,7 +9,8 @@ O projeto da interface foi desenvolvido de maneira que a organização dos eleme
 
 O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
 
-  ![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/81182674/167677275-fc7986e2-a743-4fef-a043-fff7dfec6db8.png)
+  ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
+
   
 <figure> 
     <figcaption>Figura 4 - Fluxo de telas do usuário
@@ -45,7 +46,8 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <h3><b>Tela - Livros</b></h3>
 <p>A tela da página Livros apresenta os livros disponíveis para troca, as informações sobre os livros, a funcionalidade para marcar o livro como favorito e o contato do proprietário do livro.</p>
   
-![Untitled Diagram-Page-2 drawio](https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png)
+![livros](https://user-images.githubusercontent.com/81182674/172237430-f4f8089c-dae3-499e-87b6-d344ae418de3.png)
+
   
 <figure> 
   <figcaption> Figura 7 - Tela de Livros
@@ -55,7 +57,8 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <h3><b>Tela - Tutorias</b></h3>
 <p>A tela da página Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
 
- ![tutoria](https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png)
+
+![tutoria (1)](https://user-images.githubusercontent.com/81182674/172237160-e63519ab-9058-44ec-999d-07385b5a93a4.png)
 
   
 <figure>  
