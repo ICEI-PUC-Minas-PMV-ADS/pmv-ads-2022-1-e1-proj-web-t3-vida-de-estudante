@@ -49,12 +49,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.   | ALTA |
 |RF-006| O site deve apresentar, para cada livro, uma imagem correspondente à capa.   | BAIXA |
 |RF-007| O site deve permitir ao usuário visualizar os detalhes do livro.   | MÉDIA |
-|RF-008| O site deve permitir salvar livros favoritos.   | MÉDIA |
-|RF-009| O site deve permitir verificar os livros salvos como favoritos.  | MÉDIA |
-|RF-010| O site deve permitir fazer comentários sobre os livros.   | BAIXA |
-|RF-011| O site deve permitir fazer comentários sobre os tutores.   | BAIXA |
-|RF-012| O site deve fornecer a opção de exibir comentários de livros.  | BAIXA |
-|RF-013| O site deve fornecer a opção de exibir comentários sobre os tutores.   | BAIXA |
+|RF-008| O site deve permitir ao usuário visualizar os detalhes dos tutores.   | MÉDIA |
+|RF-009| O site deve permitir verificar as informações registradas no momento do cadastro na página Perfil, após fazer seu login.  | MÉDIA |
 
 
 ### Requisitos Não Funcionais
