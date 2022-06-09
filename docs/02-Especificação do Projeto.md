@@ -50,7 +50,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| O site deve apresentar, para cada livro, uma imagem correspondente à capa.   | BAIXA |
 |RF-007| O site deve permitir ao usuário visualizar os detalhes do livro.   | MÉDIA |
 |RF-008| O site deve permitir ao usuário visualizar os detalhes dos tutores.   | MÉDIA |
-|RF-009| O site deve permitir verificar as informações registradas no momento do cadastro na página Perfil, após fazer seu login.  | MÉDIA |
+|RF-009| O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.  | MÉDIA |
 
 
 ### Requisitos Não Funcionais
