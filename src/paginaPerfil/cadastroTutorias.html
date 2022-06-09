@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <title>Vida de Estudante</title>
+</head>
+
+<body>
+  <div class="grid-container">
+    <div class="item1">
+      <header>
+        <nav>
+          <a class="logo" href="index.html">Vida de Estudante</a>
+          <div class="mobile-menu">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+          </div>
+          <ul class="nav-list">
+            <li><a href="index.html">Início</a></li>
+            <li><a href="#sobre-conteudo">Sobre</a></li>
+            <li><a href="#">Livros</a></li>
+            <li><a href="tutorias.html">Tutorias</a></li>
+            <li><a href="#">Cadastre-se</a></li>
+            <li><a href="login.html">Entrar</a></li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+
+    <!-- MENU LATERAL -->
+    <section class="menu">
+      <div class="profile-sidebar">
+        <div class="profile-usertitle">
+          <div class="profile-usertitle-name">
+            Olá, !
+          </div>
+        </div>
+
+        <div class="profile-usermenu">
+          <ul class="nav">
+            <li class="active">
+              <a href="http://127.0.0.1:5500/perfil.html">
+                <img src="/Imagens/user.png" alt="Perfil">
+                Perfil</a>
+            </li>
+            <li>
+              <a href="http://127.0.0.1:5500/cadastroLivros.html">
+                <img src="/Imagens/livro.png" alt="Livro">
+                Cadastro de livros</a>
+            </li>
+            <li>
+              <a href="http://127.0.0.1:5500/cadastroTutorias.html">
+                <img src="/Imagens/tutoria.png" alt="Tutores">
+                Cadastro de tutores</a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="/Imagens/logout.png" alt="Sair">
+                Sair</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <main>
+      <div style="overflow-x: auto;" class="col-md-9">
+        <div class="profile-content">
+          <form onsubmit="return false" name="formulario">
+            <div class="cadastrar">
+              <h1 class="cad-um">Cadastro de Tutores</h1>
+              <div class="caixas">
+                <div class="caixa">
+                  <label>Nome</label><br />
+                  <input type="text" minlength="2" name="nome" id="nome" required placeholder="Digite seu nome"><br />
+                </div>
+                <div class="caixa">
+                  <label>Instituição de ensino</label><br />
+                  <input type="text" minlength="3" name="instituicao" id="instituicao" required
+                    placeholder="Em qual instituição de ensino você estuda?"></br>
+                </div>
+                <div class="caixa">
+                  <label>Cidade</label><br />
+                  <input type="text" minlength="2" name="cidade" id="cidade" required
+                    placeholder="Em qual cidade você reside?"></br>
+                </div>
+                <div class="caixa">
+                  <label>Disciplinas</label><br />
+                  <input type="text" minglenght="4" name="disciplinas" id="disciplinas" required
+                    placeholder="Quais disciplinas você oferece tutorias?"></br>
+                </div>
+                <div class="caixa">
+                  <label>Contato</label><br />
+                  <input type="text" name="contato" id="contato" minlength="6" required
+                    placeholder="Telefone ou e-mail"></br>
+                </div>
+                <div class="caixa-img">
+                  <label>Inserir sua foto</label><br />
+                  <input type="hidden" name="MAX_FILE_SIZE" value="4194304" />
+                  <input type="file" />
+                </div>
+              </div>
+              <div>
+                <button onclick=" return cadastrar()" class="cad-button" id="botao" type=”button”>Cadastrar</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </main>
+
+    <footer class="rodape">
+      <p>Copyright &#169 2022 Vida de Estudante | Todos os direitos reservados.</p>
+    </footer>
+    <script src="mobile-navbar.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
