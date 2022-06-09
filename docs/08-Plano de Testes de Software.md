@@ -112,7 +112,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>
    <ul>
     <li>RF-001:	 O site deve permitir ao usuário cadastrar uma conta.</li>
-  
    </ul>
   </td>
   <td>Verificar se o cadastro está sendo feito corretamente.</td>
@@ -152,11 +151,11 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Visualizar a página Home.</li>
     <li>Clicar em “Entrar”, no menu.</li>
     <li>Preencher seus dados e clicar em “Entrar”.</li>
-
    </ol>
    </td>
   <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
  </tr>
+ 
  <table>
  <tr>
   <th>Caso de teste</th>
@@ -191,3 +190,36 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+  <tr>
+  <td>CT-06: Verificar o cadastro de livros</td>
+  <td>
+   <ul>
+   <li>RF-005	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
+   </ul>
+  </td>
+  <td>Verificar se o cadastro de tutores está sendo feito corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de tutores”, no menu.</li>
+    <li>Visualizar a página Cadastro de Tutores.</li>
+    <li>Inserir as informações sobre o tutor.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
+ </tr>
+</table>
