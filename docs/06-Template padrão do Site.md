@@ -39,5 +39,5 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/img/Marca-texto.png?raw=true">
-    <figcaption>Figura 12 - Logotipo da aplicação web Vida de Estudante
+    <figcaption>Figura 14 - Logotipo da aplicação web Vida de Estudante
 </figure> 
