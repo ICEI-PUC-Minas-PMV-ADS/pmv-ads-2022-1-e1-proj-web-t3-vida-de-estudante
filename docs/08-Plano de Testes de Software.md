@@ -157,5 +157,37 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </td>
   <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
  </tr>
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+  <tr>
+  <td>CT-06: Verificar o cadastro de livros</td>
+  <td>
+   <ul>
+   <li>RF-004	O site deve permitir ao usuário fazer o cadastro de livros.</li>
+   </ul>
+  </td>
+  <td>Verificar se o cadastro de livros está sendo feito corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de livros”, no menu.</li>
+    <li>Visualizar a página Cadastro de Livros.</li>
+    <li>Inserir as informações sobre o livro.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
+ </tr>
 </table>
 
