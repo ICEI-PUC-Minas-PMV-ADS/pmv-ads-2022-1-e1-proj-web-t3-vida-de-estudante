@@ -21,7 +21,7 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 </figure> 
 
 <h3><b>Tela de visualização dos livros</b></h3>
-<p>Exibe informações sobre os livros, a funcionalidade para marcar o livro como favorito e o contato do proprietário do livro.</p>
+<p>Exibe informações sobre os livros, a imagem da capa e o contato do proprietário do livro.</p>
 <figure> 
   <img src="https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png">
   <figcaption> Figura 7 - Tela de Livros
