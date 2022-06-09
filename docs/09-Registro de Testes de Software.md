@@ -49,6 +49,18 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
   <li> CT-05: Verificar o login de usuários.
   
+   <p>Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.</p>
+  
+  ![9d1c8d56-779b-402f-af5d-1f168b8637ca](https://user-images.githubusercontent.com/98122346/172923521-ee129d66-3442-4500-be97-874dc64fc25c.jpg)
+
+  <p>Se as informações de usuário forem válidas, o login será bem sucedido.</p>
+  
+  ![ee651061-b444-4358-97de-6e230cf2ec37](https://user-images.githubusercontent.com/98122346/172923744-b765583f-7ff0-43ba-ae51-f6dfe334356b.jpg)
+
+  <p> Informações armazenadas no LocalStorage do usuário logado.</p>
+  
+  ![9c8edbe8-4662-4b8c-8ca4-4efbe20b32ac](https://user-images.githubusercontent.com/98122346/172924023-13286489-ba43-4b73-b48f-0e7dafbfb0d1.jpg)
+
   </li>
   
   <li> CT-06: Verificar o cadastro de livros.
