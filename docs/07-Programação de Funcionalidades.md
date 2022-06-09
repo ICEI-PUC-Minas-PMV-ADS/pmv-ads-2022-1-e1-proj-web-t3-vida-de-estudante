@@ -29,7 +29,7 @@ Exemplo de tela de Livros:
 
 #### Estrutura de Dados
 
-●[livros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/src/paginaLivros/Código)
+●[livros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/src)
 
 
  
