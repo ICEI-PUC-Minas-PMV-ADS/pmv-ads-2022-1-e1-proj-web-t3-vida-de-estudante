@@ -29,22 +29,39 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
 
   </li>
     
-  <li> CT-04: Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.
+  <li> CT-04: Verificar o cadastro de usuários.
+   
+   <p>Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.</p>
       
   ![Screen Shot 2022-06-01 at 15 14 13](https://user-images.githubusercontent.com/81182674/171474105-64632f30-5457-4366-852d-68145a28b2b3.png)
     
   </li>
   
-  <li> 
-   CT-05: Verificar se o usuário foi cadastrado.
+  <p>Verificar se o usuário foi cadastrado.</p>
     
  ![Screen Shot 2022-06-01 at 14 57 22](https://user-images.githubusercontent.com/81182674/171472447-009af414-aaa4-45fb-abb8-e76a23430875.png)
     
-  <p> Informações armazenadas no LocalStorage após usuário cadastrar-se.</p>
+  <p> Informações armazenadas no LocalStorage após usuário se cadastrar.</p>
     
   ![Screen Shot 2022-06-01 at 15 20 21](https://user-images.githubusercontent.com/81182674/171475137-83469b08-7778-4391-a725-ad4b3b3d2a77.png)
   
   </li>
+  
+  <li> CT-05: Verificar o login de usuários.
+  
+  </li>
+  
+  <li> CT-06: Verificar o cadastro de livros.
+  <p> Mensagem de confirmação de cadastro do livro.</p>
+  
+  ![Captura de Tela 2022-06-09 às 14 39 57](https://user-images.githubusercontent.com/100447878/172911065-74eecec8-ad3e-4741-89ad-f0c8e6707659.png)
+  
+  <p> Informações armazenadas no LocalStorage após o usuário cadastrar o livro.</p>
+  
+  ![Captura de Tela 2022-06-09 às 14 40 30](https://user-images.githubusercontent.com/100447878/172911094-cf3b979b-1141-45db-8ff0-1e4311b7556e.png)
+
+  </li>
+  
   </ol>
     
 
