@@ -62,6 +62,17 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
 
   </li>
   
+  <li> Verificar o cadastro de tutores.
+  <p> Mensagem de confirmação de cadastro do tutor.</p>
+  
+  ![Captura de Tela 2022-06-09 às 14 48 43](https://user-images.githubusercontent.com/100447878/172912425-b499f7ed-3e6e-4cff-80ea-ace11d33b95c.png)
+  
+  <p> Informações armazenadas no LocalStorage após o usuário cadastrar a tutoria.</p>
+  
+  ![Captura de Tela 2022-06-09 às 14 49 08](https://user-images.githubusercontent.com/100447878/172912536-197b5ce3-abad-4072-a447-12532cf6e4ff.png)
+
+  </li>
+  
   </ol>
     
 
