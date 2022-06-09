@@ -199,7 +199,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Critérios de êxito</th>
  </tr>
   <tr>
-  <td>CT-06: Verificar o cadastro de livros</td>
+  <td>CT-06: Verificar o cadastro de tutores</td>
   <td>
    <ul>
    <li>RF-005	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
