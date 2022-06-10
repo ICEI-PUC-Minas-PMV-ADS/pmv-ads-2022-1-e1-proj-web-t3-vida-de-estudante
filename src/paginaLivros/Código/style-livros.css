@@ -257,7 +257,7 @@ input[type=text]:focus {
   }
 
   .main {
-    background: url("/Imagens/capa.jpg") no-repeat center center;
+    background: url("/src/paginaLivros/Imagens/capa.jpg") no-repeat center center;
   }
   
   body {
