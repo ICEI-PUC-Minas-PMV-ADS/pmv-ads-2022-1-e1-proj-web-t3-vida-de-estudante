@@ -90,10 +90,7 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   ![image](https://user-images.githubusercontent.com/101907319/173162583-3037c787-0176-4356-ae16-6445c9277945.png)
   ![image](https://user-images.githubusercontent.com/101907319/173162657-ec1a7a05-b5da-432a-97b4-70d62c9a373c.png)
   ![image](https://user-images.githubusercontent.com/101907319/173162676-407aad3a-238e-40b0-a697-27eaab3fe34e.png)
-
   
-  ![image](https://user-images.githubusercontent.com/101907319/173159302-0dfae137-4c14-4c3b-8c3b-d6434437dd93.png)
-    
 <p> Todas as informações cadastradas sobre os Tutores no JSON estão disponibilizadas na página Tutores.</p> 
     ![image](https://user-images.githubusercontent.com/101907319/173159709-cf124e01-1a00-48b5-ac51-72ca4dc30251.png)
     ![image](https://user-images.githubusercontent.com/101907319/173159722-4f91ae9e-7152-4951-a95a-8f6e146214a0.png)
