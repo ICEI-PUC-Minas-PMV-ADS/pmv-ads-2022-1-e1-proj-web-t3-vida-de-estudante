@@ -223,3 +223,35 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
  </tr>
 </table>
+ 
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+  <tr>
+  <td>CT-08: Verificar a página de Tutores</td>
+  <td>
+   <ul>
+   <li>RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.</li>
+   </ul>
+  </td>
+  <td>Verificar os detalhes dos Tutores e visualizar seus respectivos perfis. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Tutores”, no menu.</li>
+    <li>Visualizar a página "Tutores".</li>
+    <li>Na página "Tutores", é possível visualizar os perfis com foto e informações dos tutores</li>
+  
+   </ul>
+   </ol>
+   </td>
+  <td></td>
+ </tr>
+</table>
