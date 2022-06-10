@@ -51,7 +51,7 @@ var db = {
             autor: 'Jonathan Wickert e Kemper Lewis',
             dataDePublicacao: '2015',
             areaDeConhecimento: 'Engenharias',
-            estadoDeConservacao: 'Ótimo',
+            estadoDeConservacao: 'Usado',
             nomeDoProprietario: 'João Costa',
             contato: 'joaoc@unibh.br'
 
