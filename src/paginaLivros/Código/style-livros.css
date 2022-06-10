@@ -165,7 +165,7 @@ main {
   margin-top: 0;
   width: 100%;
   height: 500px;
-  background: url("/imagens/banner-livros.jpg") no-repeat center center;
+  background: url("/src/paginaLivros/imagens/banner-livros.jpg") no-repeat center center;
   background-size: cover;
   color: whitesmoke;
   text-align: center;
