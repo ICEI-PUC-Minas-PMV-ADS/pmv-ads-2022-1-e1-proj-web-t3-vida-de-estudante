@@ -165,7 +165,7 @@ main {
   margin-top: 0;
   width: 100%;
   height: 500px;
-  background: url("/src/paginaLivros/imagens/banner-livros.jpg") no-repeat center center;
+  background: url("../imagens/banner-livros.jpg") no-repeat center center;
   background-size: cover;
   color: whitesmoke;
   text-align: center;
@@ -188,7 +188,7 @@ input[type=text] {
   font-size: 16px;
   margin: 20px 0 20px 10px;
   background-color: white;
-  background-image: url('/src/paginaLivros/imagens/Search\ icon.png');
+  background-image: url('../imagens/Search\ icon.png');
   background-position: 10px 10px; 
   background-repeat: no-repeat;
   background-size: 20px;
@@ -257,7 +257,7 @@ input[type=text]:focus {
   }
 
   .main {
-    background: url("/src/paginaLivros/Imagens/capa.jpg") no-repeat center center;
+    background: url("../Imagens/capa.jpg") no-repeat center center;
   }
   
   body {
