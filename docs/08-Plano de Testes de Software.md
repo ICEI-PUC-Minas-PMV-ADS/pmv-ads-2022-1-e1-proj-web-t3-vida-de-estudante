@@ -247,11 +247,11 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Visualizar a página Home.</li>
     <li>Clicar em “Tutores”, no menu.</li>
     <li>Visualizar a página "Tutores".</li>
-    <li>Na página "Tutores", é possível visualizar os perfis com foto e informações dos tutores</li>
+    <li>Na página "Tutores", é possível visualizar os perfis com foto e informações dos tutores, além da barra de pesquisa acima dos perfis.</li>
   
    </ul>
    </ol>
    </td>
-  <td></td>
+  <td>Deve ser possível visualizar todos os perfis de Tutores, com suas respectivas fotos e informações, além da visualização da barra de pesquisa acima dos perfis.</td>
  </tr>
 </table>
