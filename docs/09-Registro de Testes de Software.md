@@ -85,8 +85,7 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
 
   <li> CT-08: Verificar a página de Tutores.
   <p> Verificar os detalhes sobre os perfis dos Tutores, sendo possível a visualização das fotos e informações cadastradas pelos tutores.</p>
-  
-  ![image](https://user-images.githubusercontent.com/101907319/173159259-3bae73af-b199-4c1f-85ab-c34657c421de.png)
+  ![image](https://user-images.githubusercontent.com/101907319/173159945-ccdf1cab-33d6-44e5-8ceb-4222415b73fc.png)
   ![image](https://user-images.githubusercontent.com/101907319/173159277-e224cd6c-ee1a-4db7-af75-f4ca0d379170.png)
   ![image](https://user-images.githubusercontent.com/101907319/173159302-0dfae137-4c14-4c3b-8c3b-d6434437dd93.png)
     
