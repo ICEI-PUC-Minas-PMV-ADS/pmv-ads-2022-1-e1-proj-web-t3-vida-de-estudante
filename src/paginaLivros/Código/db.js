@@ -7,7 +7,7 @@ var db = {
             autor: 'Franz Kafka',
             dataDePublicacao: '2006',
             areaDeConhecimento: 'Linguística, letras e artes',
-            estadoDeConservacao: 'Bom',
+            estadoDeConservacao: 'Usado',
             nomeDoProprietario: 'Luiz Campos',
             contato: 'luizc@puc.br'
 
@@ -18,7 +18,7 @@ var db = {
             autor: 'Graça Proença',
             dataDePublicacao: '2013',
             areaDeConhecimento: 'Linguística, letras e artes',
-            estadoDeConservacao: 'Algumas páginas estão grifadas com marca-texto amarelo',
+            estadoDeConservacao: 'Rasurado',
             nomeDoProprietario: 'Alice Souza',
             contato: 'alices@ufmg.br'
 
@@ -29,7 +29,7 @@ var db = {
             autor: 'Eduardo Rodrigues dos Santos',
             dataDePublicacao: '2022',
             areaDeConhecimento: 'Ciências sociais aplicadas',
-            estadoDeConservacao: 'Novíssimo',
+            estadoDeConservacao: 'Novo',
             nomeDoProprietario: 'Carlos Andrade',
             contato: 'carlosa@una.br'
 
@@ -40,7 +40,7 @@ var db = {
             autor: 'Andréa Remigio de Oliveira e outros',
             dataDePublicacao: '2020',
             areaDeConhecimento: 'Ciências da saúde',
-            estadoDeConservacao: 'Bom, algumas páginas amassadas',
+            estadoDeConservacao: 'Rasurado',
             nomeDoProprietario: 'Antônio Silva',
             contato: 'antonios@estacio.br'
 
@@ -62,7 +62,7 @@ var db = {
             autor: 'Ian Sommerville',
             dataDePublicacao: '2019',
             areaDeConhecimento: 'Engenharias',
-            estadoDeConservacao: 'Novo',
+            estadoDeConservacao: 'Seminovo',
             nomeDoProprietario: 'Carla Soares',
             contato: 'carlas@pitagoras.br'
 
@@ -73,7 +73,7 @@ var db = {
             autor: 'Antonio Chizzotti',
             dataDePublicacao: '2018',
             areaDeConhecimento: 'Ciências humanas',
-            estadoDeConservacao: 'Bom, com pequenas marcas na capa',
+            estadoDeConservacao: 'Usado',
             nomeDoProprietario: 'Thiago Assis',
             contato: 'thiagoa@fgv.br'
 
@@ -84,7 +84,7 @@ var db = {
             autor: 'Cabrera, Molter e Nachtigall',
             dataDePublicacao: '2020',
             areaDeConhecimento: 'Ciências exatas e da terra',
-            estadoDeConservacao: 'Um pouco amassado',
+            estadoDeConservacao: 'Novo',
             nomeDoProprietario: 'Valéria Rodrigues',
             contato: 'valeriar@fdc.br'
 
@@ -95,7 +95,7 @@ var db = {
             autor: 'Evanildo Bechara',
             dataDePublicacao: '2019',
             areaDeConhecimento: 'Linguística, letras e artes',
-            estadoDeConservacao: 'Perfeito',
+            estadoDeConservacao: 'Novo',
             nomeDoProprietario: 'Marcos Figueiredo',
             contato: 'marcosf@ead.pucpr.br'
 
