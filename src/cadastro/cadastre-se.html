@@ -9,7 +9,7 @@
     <meta name="description" content="Faça parte desta rede de estudantes e potencialize a sua aprendizagem!">
     <meta name="keywords" content="estudantes, ensino superior, educação, livros, tutorias">
     <title>Vida de Estudante</title>
-    <link rel="stylesheet" href="../página_home/código/style.css">
+    <link rel="stylesheet" href="../menu/styleMenu.css">
     <link rel="stylesheet" href="cadastro.css">
     
     
@@ -27,8 +27,8 @@
                 <div class="line3"></div>
             </div>
             <ul class="nav-list">
-                <li><a href="../Página_home/Código/index.html">Início</a></li>
-                <li><a href="#">Sobre</a></li>
+                <li><a href="../paginaHome/Código/index.html">Início</a></li>
+                <li><a href="../paginaHome/Código/index.html#sobre-conteudo">Sobre</a></li>
                 <li><a href="../paginaLivros/Código/paginaLivros.html">Livros</a></li>
                 <li><a href="#">Tutorias</a></li>
                 <li><a href="#">Cadastre-se</a></li>
@@ -44,40 +44,40 @@
              <div class="caixas">
                  <div class="caixa">
                     <label>Nome Completo *</label><br/>
-                    <input type="text" minlength="4" name="nome" id="nome" required placeholder="Digite seu nome" ><br/>
+                    <input type="text" name="nome" id="nome"  minlength="4" required placeholder="Digite seu nome"><br/>
                  </div>               
                  <div class="caixa">
                      <label>Email *</label><br/>
-                     <input type="email" minlenght="10" name = "email" id="email" required placeholder="Digite seu email" ></br>
+                     <input type="email" name = "email" id="email" required placeholder="Digite seu email"></br>
                  </div>
                  <div class="caixa">
                      <label>Telefone *</label><br/>
-                     <input type="tel" minlength="11" maxlength="11" name="telefone" id="telefone"  required placeholder="(99)99999-9999" ></br>
+                     <input type="tel" minlength="11" name="telefone" id="telefone"  required placeholder="(99)99999-9999"></br>
                  </div>
                  <div class="caixa">
                      <label>Instituição de Ensino *</label><br/>
-                     <input type="text" name="local" id="local" required placeholder="Onde você estuda?"></br>
+                     <input type="text" name="local" id="local" minlength="3" required placeholder="Onde você estuda?"></br>
                  </div>
                  <div class="caixa">
                     <label>Categoria *</label><br/>
-                    <select required id = opcoes name="opcoes">
-                        <option value ="aluno"> Aluno</option>
-                        <option value = "aluno">Tutor</option>
+                    <select id ="opcoes" name="opcoes">
+                        <option value ="aluno" id="aluno"> Aluno</option>
+                        <option value = "tutor" id="tutor">Tutor</option>
                     </select>
                     
                 </div>
                  <div class="caixa">
                      <label>Endereço *</label><br/>
-                     <input type="text" minglenght="10" name="endereco" id="endereco" required placeholder="Endereço completo" ></br>
+                     <input type="text" name="endereco" id="endereco" minlength="10" required placeholder="Endereço completo"></br>
                  </div>
                  <div class="caixa">
                      <label>Senha *</label><br/>
-                     <input type="password" name="Senha" id="Senha" minlength="6" required placeholder="Crie uma senha" ></br>
+                     <input type="password" name="Senha" id="Senha" minlength="6"  required placeholder="Crie uma senha"></br>
                    
                  </div>
                  <div class="caixa">
                      <label>Confirmação de senha *</label><br/>
-                     <input type="password" name="ConfirmeSenha"  id = "ConfirmeSenha"  minlength="6"  required  placeholder="Confirme sua senha"></br>
+                     <input type="password" name="ConfirmeSenha"  id = "ConfirmeSenha"  minlength="6" required  placeholder="Confirme sua senha"></br>
                  </div>
                  <p>
                      Campos obrigatórios(*)
@@ -94,7 +94,7 @@
         </footer>
     </main>
    
-    <script src="../página_home/Código/mobile-navbar.js"></script>
+    <script src="../Página_home/Código/mobile-navbar.js"></script>
     <script src="script.js"></script>
    
 

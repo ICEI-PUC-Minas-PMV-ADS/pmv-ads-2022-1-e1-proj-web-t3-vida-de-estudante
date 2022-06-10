@@ -1,52 +1,51 @@
 
-
-
 function cadastrar() {
-  if (nome.value == "") {
+ 
+  if (nome.value == "" || nome.value.length < 4) {
     alert("Preencha o formulário corretamente!");
     nome.focus();
     return;
   }
   if (email.value == "") {
     alert("Preencha o formulário corretamente!");
-    email.focus;
+    email.focus();
     return;
   }
-  if (telefone.value == "") {
+  if (telefone.value == "" || telefone.value.length < 11) {
     alert("Preencha o formulário corretamente!");
-    telefone.focus;
+    telefone.focus();
     return;
   }
-  if (local.value == "") {
+  if (local.value == "" || local.value.length < 3) {
     alert("Preencha o formulário corretamente!");
-    local.focus;
+    local.focus();
     return;
   }
   if (opcoes.value == "") {
     alert("Preencha o formulário corretamente!");
-    opcoes.focus;
+    opcoes.focus();
     return;
   }
-  if (endereco.value == "") {
+  if (endereco.value == "" || endereco.value.length < 10) {
     alert("Preencha o formulário corretamente!");
-    endereco.focus;
+    endereco.focus();
     return;
   }
-  if (Senha.value == "") {
+  if (Senha.value == "" || Senha.value.length < 6) {
     alert("Preencha o formulário corretamente!");
-    Senha.focus;
+    Senha.focus();
     return;
   }
   if (ConfirmeSenha.value == "") {
     alert("Preencha o formulário corretamente!");
-    endereco.focus;
+    ConfirmeSenha.focus();
     return;
   }
 
   if (Senha.value != ConfirmeSenha.value) {
     alert("As senhas não correspondem!");
-    formulario.ConfirmeSenha.focus();
-    return false;
+    ConfirmeSenha.focus();
+    return;
   }
 
   let listaUser = JSON.parse(localStorage.getItem('listaUser') || '[]')
