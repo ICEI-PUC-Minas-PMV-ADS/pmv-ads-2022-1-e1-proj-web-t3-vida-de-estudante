@@ -127,10 +127,6 @@ body {
   color: #3E497A;
 }
 
-section {
-  padding: 4rem 0;
-}
-
 img {
   display: block;
   max-width: 100%;
@@ -148,6 +144,14 @@ p {
 }
 
 .corpo {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.conteudo {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
@@ -182,10 +186,7 @@ input[type=text] {
   border: 2px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
-  margin-top: 20px;
-  margin-right: 0;
-  margin-left: 20px;
-  margin-bottom: 0;
+  margin: 20px 0 20px 10px;
   background-color: white;
   background-image: url('/Imagens/Search\ icon.png');
   background-position: 10px 10px; 
@@ -204,12 +205,9 @@ input[type=text]:focus {
 /* LIVROS */
 
 #lista-livros {
-  width: 400px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
-  margin-left: 6%;
-
 }
 
 #lista-livros img {
@@ -220,7 +218,6 @@ input[type=text]:focus {
 }
 
 .livro-item {
-  width: 350px;
   float: left;
   padding: 30px;
   background-color: white;
@@ -262,21 +259,25 @@ input[type=text]:focus {
   .main {
     background: url("/Imagens/capa.jpg") no-repeat center center;
   }
+  
+  body {
+    overflow-x: hidden;
+  }
+}
 
+@media only screen and (max-width: 400px) {
+  .main h1 {
+    font-size: 1.5rem;
+  }
 
-  @media only screen and (max-width: 400px) {
-    .main h1 {
-      font-size: 1.5rem;
-    }
+  #lista-livros {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+    font-size: 1.125rem;
+  }
 
-    .titulo {
-      font-size: 1.125rem;
-    }
-
-    #lista-livros {
-      grid-template-columns: 1fr;
-      justify-items: center;
-      text-align: center;
-    }
+  body {
+    overflow-x: hidden;
   }
 }
