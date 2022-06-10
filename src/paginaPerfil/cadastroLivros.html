@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <title>Vida de Estudante</title>
+</head>
+
+<body>
+  <div class="grid-container">
+    <div class="item1">
+      <header>
+        <nav>
+          <a class="logo" href="#">Vida de Estudante</a>
+          <div class="mobile-menu">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+          </div>
+          <ul class="nav-list">
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Livros</a></li>
+            <li><a href="#">Tutorias</a></li>
+            <li><a href="#">Cadastre-se</a></li>
+            <li><a href="#">Entrar</a></li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+
+    <!-- MENU LATERAL -->
+    <section class="menu">
+      <div class="profile-sidebar">
+        <div class="profile-usertitle">
+          <div class="profile-usertitle-name">
+            Olá, !
+          </div>
+        </div>
+
+        <div class="profile-usermenu">
+          <ul class="nav">
+            <li class="active">
+              <a href="http://127.0.0.1:5500/perfil.html">
+                <img src="/Imagens/user.png" alt="Perfil">
+                Perfil</a>
+            </li>
+            <li>
+              <a href="http://127.0.0.1:5500/cadastroLivros.html">
+                <img src="/Imagens/livro.png" alt="Livro">
+                Cadastro de livros</a>
+            </li>
+            <li>
+              <a href="http://127.0.0.1:5500/cadastroTutorias.html">
+                <img src="/Imagens/tutoria.png" alt="Tutores">
+                Cadastro de tutores</a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="/Imagens/logout.png" alt="Sair">
+                Sair</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <main>
+      <div style="overflow-x: auto;" class="col-md-9">
+        <div class="profile-content">
+          <form onsubmit="return false" name="formulario">
+            <div class="cadastrar">
+              <h1 class="cad-um">Cadastro de Livros</h1>
+              <div class="caixas">
+                <div class="caixa">
+                  <label>Título</label><br />
+                  <input type="text" minlength="6" name="titulo" id="titulo" required
+                    placeholder="Título do livro"><br />
+                </div>
+                <div class="caixa">
+                  <label>Resumo</label><br />
+                  <textarea required placeholder="Escreva um breve resumo sobre o livro" name="resumo"
+                    id="resumo"></textarea></br>
+                </div>
+                <div class="caixa">
+                  <label>Ano de publicação</label><br />
+                  <input type="text" maxlength="4" name="ano" id="ano" required
+                    placeholder="Digite o ano em que o livro foi publicado"></br>
+                </div>
+                <div class="caixa">
+                  <label>Área do conhecimento</label><br />
+                  <select required name="area" id=area>
+                    <option value="null" disabled selected hidden>Selecione</option>
+                    <option value="exatas"> Ciências Exatas e da Terra</option>
+                    <option value="biologicas">Ciências Biológicas</option>
+                    <option value="engenharias">Engenharias</option>
+                    <option value="saude">Ciências da Saúde</option>
+                    <option value="agrarias">Ciências Agrárias</option>
+                    <option value="sociais">Ciências Sociais</option>
+                    <option value="humanas">Ciências Humanas</option>
+                    <option value="letras">Linguística, Letras e Artes</option>
+                  </select>
+                </div>
+                <div class="caixa">
+                  <label>Estado de conservação</label><br />
+                  <select required name="estado" id=estado>
+                    <option value="null" disabled selected hidden>Selecione</option>
+                    <option value="novo"> Novo</option>
+                    <option value="seminovo">Seminovo</option>
+                    <option value="usado">Usado</option>
+                    <option value="rasurado">Rasurado</option>
+                  </select>
+                </div>
+                <div class="caixa">
+                  <label>Nome do(a) proprietário(a)</label><br />
+                  <input type="text" minlenght="2" name="proprietario" id="proprietario" required
+                    placeholder="Digite o nome do proprietário"></br>
+                </div>
+                <div class="caixa">
+                  <label>Contato</label><br />
+                  <input type="text" name="contato" id="contato" minlength="6" required
+                    placeholder="Telefone ou e-mail"></br>
+                </div>
+                <div class="caixa-img">
+                  <label>Inserir imagem da capa</label><br />
+                  <input type="hidden" name="MAX_FILE_SIZE" value="4194304" />
+                  <input type="file" />
+                </div>
+              </div>
+              <div>
+                <button onclick=" return cadastrar()" class="cad-button" id="botao" type=”button”>Cadastrar</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </main>
+    <footer class="rodape">
+      <p>Copyright &#169 2022 Vida de Estudante | Todos os direitos reservados.</p>
+    </footer>
+    <script src="mobile-navbar.js"></script>
+    <script src="script2.js"></script>
+</body>
+
+</html>

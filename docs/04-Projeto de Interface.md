@@ -9,7 +9,8 @@ O projeto da interface foi desenvolvido de maneira que a organização dos eleme
 
 O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
 
-  ![Untitled Diagram drawio (6)](https://user-images.githubusercontent.com/81182674/167677275-fc7986e2-a743-4fef-a043-fff7dfec6db8.png)
+  ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
+
   
 <figure> 
     <figcaption>Figura 4 - Fluxo de telas do usuário
@@ -43,9 +44,10 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <h3><b>Tela - Livros</b></h3>
-<p>A tela da página Livros apresenta os livros disponíveis para troca, as informações sobre os livros, a funcionalidade para marcar o livro como favorito e o contato do proprietário do livro.</p>
+<p>A tela de Livros apresenta os livros disponíveis para troca, as informações sobre os livros e o contato do proprietário do livro.</p>
   
-![Untitled Diagram-Page-2 drawio](https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png)
+![livros](https://user-images.githubusercontent.com/81182674/172237430-f4f8089c-dae3-499e-87b6-d344ae418de3.png)
+
   
 <figure> 
   <figcaption> Figura 7 - Tela de Livros
@@ -53,9 +55,10 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela - Tutorias</b></h3>
-<p>A tela da página Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
+<p>A tela de Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
 
- ![tutoria](https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png)
+
+![tutoria (1)](https://user-images.githubusercontent.com/81182674/172237160-e63519ab-9058-44ec-999d-07385b5a93a4.png)
 
   
 <figure>  
@@ -64,7 +67,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela – Login</b></h3>
-<p>A tela da página para o acesso à conta do usuário apresenta um campo para a inserção do e-mail e senha, e a funcionalidade para troca de senha, caso o usuário tenha esquecido a mesma.</p>
+<p>A tela de Login apresenta campos para a inserção do e-mail e da senha, e a funcionalidade de manter-se logado. </p>
   
   ![login](https://user-images.githubusercontent.com/81182674/167681381-ee88eeee-ffd8-428f-bfb2-67106c0d6046.png)
 
@@ -75,11 +78,51 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela – Cadastro</b></h3>
-<p>A tela da página de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: nome completo, e-mail, telefone, instituição de ensino na qual estuda, endereço, campo de criação e confirmação de senha.</p>
+<p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
   
   ![cadastro](https://user-images.githubusercontent.com/81182674/167681719-694701df-5bd7-4615-9562-b106001e40db.png)
 
 
 <figure> 
-    <figcaption>Figura 10 - Tela de cadastro do usuário
+    <figcaption>Figura 10 - Tela de cadastro de usuários
+</figure>
+<hr> 
+  
+  <h3><b>Tela – Perfil</b></h3>
+<p>A tela de Perfil apresenta um menu lateral, que permite ter acesso às informações do usuário( que foram inseridas na Página de Cadastro), às Telas de Cadastro de Livros e de Tutores, e à opção de "Logout".  </p>
+  
+![perfil](https://user-images.githubusercontent.com/81182674/172498681-6fd2d59e-00f8-45b8-b0f4-7e8676eba5a6.png)
+
+
+<figure> 
+    <figcaption>Figura 11 - Tela de Perfil
+</figure>
+<hr>
+
+  <h3><b>Tela – Cadastro de Livros</b></h3>
+<p>A tela de Cadastro de Livros apresenta os seguintes campos: Título do Livro, Resumo, Ano de Publicação, Área de Conhecimento, Estado de Conservação, Nome do Proprietário e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login.   </p>
+  
+
+![livros (1)](https://user-images.githubusercontent.com/81182674/172500605-2d476435-9841-4c40-848c-016bea99ecdb.png)
+
+
+
+
+<figure> 
+    <figcaption>Figura 11 - Tela de Cadastro de Tutores
+</figure>
+ <hr>
+
+  <h3><b>Tela – Cadastro de Tutores</b></h3>
+<p>A tela de Cadastro de Tutores, apresenta os seguintes campos: Nome, Instituição de Ensino, Cidade, Área de Conhecimento, Disciplina e Contato.Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
+  
+
+
+![tutores](https://user-images.githubusercontent.com/81182674/172501101-1222f7e8-a62e-44d7-8c37-0afbdab03f59.png)
+
+
+
+
+<figure> 
+    <figcaption>Figura 11 - Tela de Cadastro de Tutores
 </figure>

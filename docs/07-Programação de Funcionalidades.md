@@ -23,13 +23,13 @@ Exemplo de tela de Livros:
 
 #### Artefatos da funcionalidade
 
-●	PaginaDeLivros.html 
+●	paginaLivros.html 
 
-●	style(1).css
+●	style-livros.css
 
 #### Estrutura de Dados
 
-●[livros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/Pa%CC%81gina_home/Co%CC%81digo/pagina-livros/livros.html)
+●[livros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/src)
 
 
  

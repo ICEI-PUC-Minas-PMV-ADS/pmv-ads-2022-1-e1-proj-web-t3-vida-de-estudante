@@ -108,45 +108,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Critérios de êxito</th>
  </tr>
  <tr>
-  <td>CT-04: Verificar o cadastro dos livros</td>
-  <td>
-   <ul>
-    <li>RF-004:	O site deve permitir ao usuário fazer o cadastro de livros.</li>
-   </ul>
-  </td>
-  <td>Verificar se todas as informações sobre livros cadastradas pelos usuários são disponibilizadas na página Livros</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar na página Login.</li>
-    <li>Fazer o login, inserindo o e-mail previamente cadastrado e a senha.</li>
-    <li>Visualizar a página Perfil.</li>
-    <li>Clicar em Cadastrar livro.</li>
-    <li>Inserir as informações e imagem da capa do livro a ser cadastrado.</li>
-    <li>Clicar no botão Cadastrar.</li>
-    <li>Visualizar se as informações cadastradas foram disponibilizadas na página Livros.</li>
-   </ol>
-   </td>
-  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros após o cadastro.</td>
- </tr>
-</table>
-
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
- </tr>
- <tr>
-  <td>CT-05: Verificar o cadastro de usuários</td>
+  <td>CT-04: Verificar o cadastro de usuários</td>
   <td>
    <ul>
     <li>RF-001:	 O site deve permitir ao usuário cadastrar uma conta.</li>
-  
    </ul>
   </td>
   <td>Verificar se o cadastro está sendo feito corretamente.</td>
@@ -172,7 +137,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Critérios de êxito</th>
  </tr>
  <tr>
-  <td>CT-06: Verificar o login de usuários</td>
+  <td>CT-05: Verificar o login de usuários</td>
   <td>
    <ul>
    <li>RF-002: O site deve permitir ao usuário fazer o login da sua conta.</li>
@@ -186,10 +151,75 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Visualizar a página Home.</li>
     <li>Clicar em “Entrar”, no menu.</li>
     <li>Preencher seus dados e clicar em “Entrar”.</li>
-
    </ol>
    </td>
   <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
  </tr>
+ 
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+  <tr>
+  <td>CT-06: Verificar o cadastro de livros</td>
+  <td>
+   <ul>
+   <li>RF-004	O site deve permitir ao usuário fazer o cadastro de livros.</li>
+   </ul>
+  </td>
+  <td>Verificar se o cadastro de livros está sendo feito corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de livros”, no menu.</li>
+    <li>Visualizar a página Cadastro de Livros.</li>
+    <li>Inserir as informações sobre o livro.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
+ </tr>
 </table>
 
+ <table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+  <tr>
+  <td>CT-07: Verificar o cadastro de tutores</td>
+  <td>
+   <ul>
+   <li>RF-005	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
+   </ul>
+  </td>
+  <td>Verificar se o cadastro de tutores está sendo feito corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em “Entrar”, no menu.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+    <li>Clicar em “Cadastro de tutores”, no menu.</li>
+    <li>Visualizar a página Cadastro de Tutores.</li>
+    <li>Inserir as informações sobre o tutor.</li>
+    <li>Clicar em “Cadastrar”.</li>
+   </ol>
+   </td>
+  <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
+ </tr>
+</table>
