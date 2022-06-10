@@ -23,4 +23,4 @@ A solução implementada conta com os seguintes módulos:
 
 ## Hospedagem
 
-Será utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido no ambiente da URL: (inserir URL do site quando estiver pronto).
+Será utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: (inserir URL do site quando estiver pronto).
