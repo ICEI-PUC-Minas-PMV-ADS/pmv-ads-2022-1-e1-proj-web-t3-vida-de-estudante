@@ -119,6 +119,14 @@ main {
   transform: rotate(45deg) translate(-5px, -7px);
 }
 
+/* ESTILO PADRÀO */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: whitesmoke;
+  color: #3E497A;
+}
+
 /* RESPONSIVO */
 
 @media only screen and (max-width: 750px) {
