@@ -104,6 +104,42 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 
 <hr>
 
+### Tela de Cadastro de Livros (RF-004)
+
+O acesso a tela de cadastro de livros poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Livros:
+
+![Captura de Tela 2022-06-15 às 12 03 16](https://user-images.githubusercontent.com/100447878/173860896-42a2e521-b057-44db-988f-9007ec60c450.png)
+
+
+#### Requisitos atendidos
+ 
+RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
+
+#### Artefatos da funcionalidade
+
+●	cadastroLivros.html 
+
+●	style.css
+
+●	script2.js
+
+●	mobile-navbar.js
+
+#### Estrutura de Dados
+
+●[cadastroLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaPerfil/cadastroLivros.html)
+
+
+#### Instruções de acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
+3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
+4.	Clique em "Cadastro de livros" no menu lateral e verá a página para o cadastro de livros.
+
+<hr>
+
 ### Tela de Livros (RF-006, RF-007)
 
 O acesso a tela de livros poderá ser feito através da opção de menu “Livros”. As estruturas de dados foram baseadas em HTML e CSS.
@@ -201,6 +237,6 @@ RF-009	O site deve permitir ao usuário verificar as informações registradas n
 1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
 2.	Ao clicar em “Cadastrar” no canto superior direito da tela, terá acesso a página de cadastro.
 3.	Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
-4.	Após o cadastro, terá acesso ä tela de login.
+4.	Após o cadastro, terá acesso à tela de login.
 5.	Informe seu e-mail e senha cadastrados e terá acesso ä página de Perfil.
 
