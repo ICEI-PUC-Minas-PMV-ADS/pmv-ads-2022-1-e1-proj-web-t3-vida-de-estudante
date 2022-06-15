@@ -144,7 +144,7 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 
 O acesso a tela de cadastro de tutores poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-Exemplo da tela de Livros:
+Exemplo da tela de Cadastro de tutores:
 
 ![Captura de Tela 2022-06-15 às 12 04 02](https://user-images.githubusercontent.com/100447878/173863307-b5e241d1-6b14-4997-a9cd-11021181022f.png)
 
