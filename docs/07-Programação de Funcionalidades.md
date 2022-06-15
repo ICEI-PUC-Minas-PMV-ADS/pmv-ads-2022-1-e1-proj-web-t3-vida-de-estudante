@@ -72,7 +72,7 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 ### Filtro de pesquisa (RF-003)
 
-O filtro de pesquisa está disponível nas páginas de Livros e Tutorias. O acesso às páginas de Livros e Tutorias poderá ser feito através menu superior. As estruturas de dados foram baseadas em HTML e CSS.
+O filtro de pesquisa está disponível nas páginas de Livros e Tutorias. O acesso às páginas de Livros e Tutorias poderá ser feito através menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo do filtro de pesquisa na tela de Livros:
 
