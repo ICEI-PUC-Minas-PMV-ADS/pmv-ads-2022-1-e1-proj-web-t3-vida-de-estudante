@@ -108,7 +108,7 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 
 O acesso a tela de cadastro de livros poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-Exemplo da tela de Livros:
+Exemplo da tela de Cadastro de livros:
 
 ![Captura de Tela 2022-06-15 às 12 03 16](https://user-images.githubusercontent.com/100447878/173860896-42a2e521-b057-44db-988f-9007ec60c450.png)
 
@@ -137,6 +137,42 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
 3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
 4.	Clique em "Cadastro de livros" no menu lateral e verá a página para o cadastro de livros.
+
+<hr>
+
+### Tela de Cadastro de Tutores (RF-005)
+
+O acesso a tela de cadastro de tutores poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de Livros:
+
+![Captura de Tela 2022-06-15 às 12 04 02](https://user-images.githubusercontent.com/100447878/173863307-b5e241d1-6b14-4997-a9cd-11021181022f.png)
+
+
+#### Requisitos atendidos
+ 
+RF-005	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.
+
+#### Artefatos da funcionalidade
+
+●	cadastroTutorias.html 
+
+●	style.css
+
+●	script.js
+
+●	mobile-navbar.js
+
+#### Estrutura de Dados
+
+●[cadastroTutorias.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaPerfil/cadastroTutorias.html)
+
+
+#### Instruções de acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
+3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
+4.	Clique em "Cadastro de tutores" no menu lateral e verá a página para o cadastro de tutores.
 
 <hr>
 
