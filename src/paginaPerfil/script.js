@@ -1,30 +1,30 @@
-
-
+let userLogado = JSON.parse(localStorage.getItem("userLogado"));
+document.getElementById("nomeTitulo").innerHTML = userLogado.nome;
 
 function cadastrar() {
-  if (nome.value == "") {
+  if (nome.value == "" || nome.value.length < 2) {
     alert("Preencha o formulário corretamente!");
     nome.focus();
     return;
   }
-  if (instituicao.value == "") {
+  if (instituicao.value == "" || instituicao.value.length < 3) {
     alert("Preencha o formulário corretamente!");
-    instituicao.focus;
+    instituicao.focus();
     return;
   }
-  if (cidade.value == "") {
+  if (cidade.value == "" || cidade.value.length < 2) {
     alert("Preencha o formulário corretamente!");
-    cidade.focus;
+    cidade.focus();
     return;
   }
-  if (disciplinas.value == "") {
+  if (disciplinas.value == "" || disciplinas.value.length < 4) {
     alert("Preencha o formulário corretamente!");
-    disciplinas.focus;
+    disciplinas.focus();
     return;
   }
-  if (contato.value == "") {
+  if (contato.value == "" || contato.value.length < 6) {
     alert("Preencha o formulário corretamente!");
-    contato.focus;
+    contato.focus();
     return;
   }
 
@@ -42,7 +42,7 @@ function cadastrar() {
   localStorage.setItem("listaUser", JSON.stringify(listaUser))
 
   alert("Tutoria cadastrada com sucesso!");
-  window.location.href = "../paginaPerfil/cadastroTutorias.html"
+  window.location.href = "../página Tutorias/paginaTutorias.html"
 }
 
 
