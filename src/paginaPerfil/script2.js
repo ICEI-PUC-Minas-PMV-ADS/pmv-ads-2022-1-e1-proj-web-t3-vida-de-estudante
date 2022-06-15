@@ -1,40 +1,41 @@
 
-
+let userLogado = JSON.parse(localStorage.getItem("userLogado"));
+document.getElementById("nomeTitulo").innerHTML = userLogado.nome;
 
 function cadastrar() {
-  if (titulo.value == "") {
+  if (titulo.value == "" || titulo.value.length < 6) {
     alert("Preencha o formulário corretamente!");
     titulo.focus();
     return;
   }
-  if (resumo.value == "") {
+  if (resumo.value == "" || resumo.value.length < 10) {
     alert("Preencha o formulário corretamente!");
-    resumo.focus;
+    resumo.focus();
     return;
   }
-  if (ano.value == "") {
+  if (ano.value == "" || ano.value.length < 4) {
     alert("Preencha o formulário corretamente!");
-    ano.focus;
+    ano.focus();
     return;
   }
   if (area.value == "") {
     alert("Preencha o formulário corretamente!");
-    area.focus;
+    area.focus();
     return;
   }
-  if (estado.value == "") {
+  if (estado.value == "" || estado.value.length < 2) {
     alert("Preencha o formulário corretamente!");
-    estado.focus;
+    estado.focus();
     return;
   }
-  if (proprietario.value == "") {
+  if (proprietario.value == "" || proprietario.value.length < 2) {
     alert("Preencha o formulário corretamente!");
-    proprietario.focus;
+    proprietario.focus();
     return;
   }
-  if (contato.value == "") {
+  if (contato.value == "" || contato.value.length < 6) {
     alert("Preencha o formulário corretamente!");
-    contato.focus;
+    contato.focus();
     return;
   }
 
@@ -54,7 +55,7 @@ function cadastrar() {
   localStorage.setItem("listaUser", JSON.stringify(listaUser))
 
   alert("Livro cadastrado com sucesso!");
-  window.location.href = "../paginaPerfil/cadastroLivros.html"
+  window.location.href = "../paginaLivros/paginaLivros.html"
 }
 
 
