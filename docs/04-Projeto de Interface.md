@@ -89,7 +89,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr> 
   
   <h3><b>Tela – Perfil</b></h3>
-<p>A tela de Perfil apresenta um menu lateral, que permite ter acesso às informações do usuário( que foram inseridas na Página de Cadastro), às Telas de Cadastro de Livros e de Tutores, e à opção de "Logout".  </p>
+<p>A tela de Perfil apresenta um menu lateral, que permite ter acesso às informações do usuário (que foram inseridas na Página de Cadastro), às telas de Cadastro de Livros e de Tutores, e à opção de "Logout".  </p>
   
 ![perfil](https://user-images.githubusercontent.com/81182674/172498681-6fd2d59e-00f8-45b8-b0f4-7e8676eba5a6.png)
 
@@ -100,7 +100,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
   <h3><b>Tela – Cadastro de Livros</b></h3>
-<p>A tela de Cadastro de Livros apresenta os seguintes campos: Título do Livro, Resumo, Ano de Publicação, Área de Conhecimento, Estado de Conservação, Nome do Proprietário e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login.   </p>
+<p>A tela de Cadastro de Livros apresenta os seguintes campos: Título, Resumo, Ano de publicação, Área de conhecimento, Estado de conservação, Nome do proprietário e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login.   </p>
   
 
 ![livros (1)](https://user-images.githubusercontent.com/81182674/172500605-2d476435-9841-4c40-848c-016bea99ecdb.png)
@@ -109,12 +109,12 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 11 - Tela de Cadastro de Tutores
+    <figcaption>Figura 12 - Tela de Cadastro de Livros
 </figure>
  <hr>
 
   <h3><b>Tela – Cadastro de Tutores</b></h3>
-<p>A tela de Cadastro de Tutores, apresenta os seguintes campos: Nome, Instituição de Ensino, Cidade, Área de Conhecimento, Disciplina e Contato.Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
+<p>A tela de Cadastro de Tutores apresenta os seguintes campos: Nome, Instituição de ensino, Cidade, Disciplina e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
   
 
 
@@ -124,5 +124,5 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 11 - Tela de Cadastro de Tutores
+    <figcaption>Figura 12 - Tela de Cadastro de Tutores
 </figure>
