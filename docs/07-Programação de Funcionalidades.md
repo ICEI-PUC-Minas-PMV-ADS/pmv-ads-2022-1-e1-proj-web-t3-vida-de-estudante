@@ -3,18 +3,16 @@
 <span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/02-Especificação%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/03-Metodologia.md"> Metodologia</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/05-Arquitetura%20da%20Solução.md"> Arquitetura da Solução</a>
 
 
-### Tela de Livros (RF-004, RF-006, RF-007)
+### Tela de Livros (RF-006, RF-007)
 
 O acesso a tela de livros poderá ser feito através da opção de menu “Livros”. As estruturas de dados foram baseadas em HTML e CSS.
 
 Exemplo de tela de Livros:
 
-![Captura de Tela 2022-05-15 às 22 13 52](https://user-images.githubusercontent.com/100447878/168503885-84c6db0a-3134-40e0-9366-eda47a904864.png)
+![Captura de Tela 2022-06-15 às 10 54 01](https://user-images.githubusercontent.com/100447878/173845088-cdca11c1-3496-42f1-a3f7-9eb0aba491ed.png)
 
 
 #### Requisitos atendidos
-
- RF-004 O site deve permitir ao usuário fazer o cadastro de livros
  
  RF-006 O site deve apresentar, para cada livro, uma imagem correspondente à capa
  
@@ -33,10 +31,8 @@ Exemplo de tela de Livros:
 
 #### Estrutura de Dados
 
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/tree/main/src)
+●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaLivros/paginaLivros.html)
 
-
- 
 
 #### Instruções de acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
