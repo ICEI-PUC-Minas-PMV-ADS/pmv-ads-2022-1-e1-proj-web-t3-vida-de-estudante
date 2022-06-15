@@ -41,7 +41,7 @@ function cadastrar() {
 
   localStorage.setItem("listaUser", JSON.stringify(listaUser))
 
-  alert("Tutoria cadastrada com sucesso!");
+  alert("Tutor(a) cadastrado(a) com sucesso!");
   window.location.href = "../página Tutorias/paginaTutorias.html"
 }
 
