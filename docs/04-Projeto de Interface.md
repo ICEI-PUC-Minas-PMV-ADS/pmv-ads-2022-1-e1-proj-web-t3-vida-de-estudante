@@ -124,5 +124,5 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 12 - Tela de Cadastro de Tutores
+    <figcaption>Figura 13 - Tela de Cadastro de Tutores
 </figure>
