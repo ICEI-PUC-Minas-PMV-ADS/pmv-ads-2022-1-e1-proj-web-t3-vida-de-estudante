@@ -70,6 +70,40 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 <hr>
 
+### Filtro de pesquisa (RF-003)
+
+O filtro de pesquisa está disponível nas páginas de Livros e Tutorias. O acesso às páginas de Livros e Tutorias poderá ser feito através menu superior. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo do filtro de pesquisa na tela de Livros:
+
+![Captura de Tela 2022-06-15 às 11 49 39](https://user-images.githubusercontent.com/100447878/173857385-bd1ea51a-2ba7-43e5-ac71-6502b1a13773.png)
+
+
+#### Requisitos atendidos
+
+RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar livros e disciplinas das tutorias disponíveis.
+
+
+#### Artefatos da funcionalidade
+
+●	paginaLivros.html 
+
+●	style-livros.css
+
+
+#### Estrutura de Dados
+
+●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaLivros/paginaLivros.html)
+
+
+#### Instruções de acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros e ao filtro de pesquisa.
+3.	Digite o termo que deseja pesquisar no filtro de pesquisa.
+4.	Veja os resultados da sua pesquisa na tela.
+
+<hr>
+
 ### Tela de Tutores (RF-005)
 
 O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML e CSS.
@@ -140,7 +174,7 @@ O acesso a tela de perfil é feito após o login do usuário na página Login, d
 
 Exemplo da tela de Perfil:
 
-![Captura de Tela 2022-06-15 às 11 15 25](https://user-images.githubusercontent.com/100447878/173849566-99e2c9bc-9e45-4a82-946b-161ded19e371.png)
+![Captura de Tela 2022-06-15 às 11 48 32](https://user-images.githubusercontent.com/100447878/173857481-7c32caf4-26f0-4f6a-8c92-3199552ebaed.png)
 
 
 #### Requisitos atendidos
