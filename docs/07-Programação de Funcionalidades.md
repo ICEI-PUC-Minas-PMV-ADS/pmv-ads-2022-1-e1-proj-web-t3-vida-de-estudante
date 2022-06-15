@@ -7,7 +7,7 @@
 
 O acesso a tela de livros poderá ser feito através da opção de menu “Livros”. As estruturas de dados foram baseadas em HTML e CSS.
 
-Exemplo de tela de Livros:
+Exemplo da tela de Livros:
 
 ![Captura de Tela 2022-06-15 às 10 54 01](https://user-images.githubusercontent.com/100447878/173845088-cdca11c1-3496-42f1-a3f7-9eb0aba491ed.png)
 
@@ -132,7 +132,41 @@ RF-005: O site deve permitir ao usuário disponibilizar informações das discip
 2.	Clicar na opção “Tutores” no canto superior direito da tela (na barra de Menu), e terá acesso a página de Tutores.
 
 
+### Tela de Perfil (RF-009)
 
+O acesso a tela de perfil é feito após o login do usuário na página Login, disponível no menu superior. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de Perfil:
+
+![Captura de Tela 2022-06-15 às 11 15 25](https://user-images.githubusercontent.com/100447878/173849566-99e2c9bc-9e45-4a82-946b-161ded19e371.png)
+
+
+#### Requisitos atendidos
+ 
+RF-009	O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.
+
+
+#### Artefatos da funcionalidade
+
+●	perfil.html 
+
+●	style.css
+
+●	perfil.js
+
+●	mobile-navbar.js
+
+#### Estrutura de Dados
+
+●[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaPerfil/perfil.html)
+
+
+#### Instruções de acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+2.	Ao clicar em “Cadastrar” no canto superior direito da tela, terá acesso a página de cadastro.
+3.	Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
+4.	Após o cadastro, terá acesso ä tela de login.
+5.	Informe seu e-mail e senha cadastrados e terá acesso ä página de Perfil.
 
 
 
