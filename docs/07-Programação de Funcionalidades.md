@@ -104,33 +104,6 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 
 <hr>
 
-### Tela de Tutores (RF-005)
-
-O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML e CSS.
-
-Exemplo da tela de Tutores: 
-![image](https://user-images.githubusercontent.com/101907319/168500482-ee35c4ed-f244-4db4-9f75-3a3a1847787d.png)
-
-### Requisito atendido
-
-RF-005: O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.
-
-### Artefatos da funcionalidade
-
-●	Código Tutoria tentativa 1
-
-### Estrutura de Dados
-
-●	[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/66236635d623a76c6dd572e09003b08a03bbe0b7/src/C%C3%B3digo%20Tutoria%20tentativa%201)
-
-### Instruções de acesso
-
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
-	
-2.	Clicar na opção “Tutores” no canto superior direito da tela (na barra de Menu), e terá acesso a página de Tutores.
-
-<hr>
-
 ### Tela de Livros (RF-006, RF-007)
 
 O acesso a tela de livros poderá ser feito através da opção de menu “Livros”. As estruturas de dados foram baseadas em HTML e CSS.
@@ -165,6 +138,33 @@ Exemplo da tela de Livros:
 #### Instruções de acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
 2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros.
+
+<hr>
+
+### Tela de Tutores (RF-008)
+
+O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de Tutores: 
+![image](https://user-images.githubusercontent.com/101907319/168500482-ee35c4ed-f244-4db4-9f75-3a3a1847787d.png)
+
+### Requisito atendido
+
+RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
+
+### Artefatos da funcionalidade
+
+●	Código Tutoria tentativa 1
+
+### Estrutura de Dados
+
+●	[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/66236635d623a76c6dd572e09003b08a03bbe0b7/src/C%C3%B3digo%20Tutoria%20tentativa%201)
+
+### Instruções de acesso
+
+1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+	
+2.	Clicar na opção “Tutores” no canto superior direito da tela (na barra de Menu), e terá acesso a página de Tutores.
 
 <hr>
 
