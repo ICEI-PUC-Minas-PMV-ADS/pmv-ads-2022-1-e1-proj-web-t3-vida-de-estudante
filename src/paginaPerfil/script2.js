@@ -158,15 +158,15 @@ let listaLivros = JSON.parse(localStorage.getItem('listaLivros'));
   }
   listaLivros.dados.push(
     {
-      tituloUser: titulo.value,
-      imagemUser: formulario.imagem.value,
-      resumoUser: formulario.resumo.value,
-      autorUser: formulario.autor.value,
-      anoUser: formulario.ano.value,
-      areaUser: formulario.area.value,
-      estadoUser: formulario.estado.value,
-      proprietarioUser: formulario.proprietario.value,
-      contatoUser: formulario.contato.value,
+      titulo: titulo.value,
+      resumo: formulario.resumo.value,
+      autor:formulario.autor.value,
+      dataDePublicacao: formulario.ano.value,
+      areaDeConhecimento: formulario.area.value,
+      estadoDeConservacao: formulario.estado.value,
+      nomeDoProprietario: formulario.proprietario.value,
+      contato: formulario.contato.value,
+      imagem: formulario.imagem.value
     }
   );
 
