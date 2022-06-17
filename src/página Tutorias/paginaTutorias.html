@@ -11,7 +11,6 @@
     <meta name="keywords" content="estudantes, ensino superior, educação, livros, tutorias">
     <title>Vida de Estudante</title>
     <link rel="stylesheet" href="style-tutorias.css">
-    <script src="db.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
     $(document).ready(function(){
@@ -63,14 +62,7 @@
         </footer>
     
     <script src="mobile-navbar.js"></script>
-   
-    <script> 
-        var prods = '';
-        for (i=0; i < db.dados.length; i++) {
-            prods += `<p class="Tutor-item"><img src="${ db.dados[i].imagem }"> <br> Nome: ${ db.dados[i].nome } <br> Instituição de ensino: ${ db.dados[i].instituicaoDeEnsino } <br> Cidade: ${ db.dados[i].cidade } <br> Disciplina(s): ${ db.dados[i].disciplinas } <br> Contato: ${ db.dados[i].contato }</p>`;
-        }
-        document.getElementById('lista-Tutor').innerHTML = prods;
-    </script>
+    <script src="../página Tutorias/tutores.js"></script>
 
 </body>
 
