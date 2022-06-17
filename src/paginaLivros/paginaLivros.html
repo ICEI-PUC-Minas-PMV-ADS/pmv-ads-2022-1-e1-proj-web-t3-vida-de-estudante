@@ -63,14 +63,6 @@ $(document).ready(function(){
         </footer>
     
     <script src="../menu/mobile-navbar.js"></script>
-    <script>
-        var prods = '';
-        for (i=0; i < db.dados.length; i++) {
-            prods += `<p class="livro-item">Título: ${ db.dados[i].titulo } <br> <img src="${ db.dados[i].imagem }"> <br> Resumo: ${ db.dados[i].resumo } <br> Autor: ${ db.dados[i].autor } <br> Data de publicação: ${ db.dados[i].dataDePublicacao } <br> Área de conhecimento: ${ db.dados[i].areaDeConhecimento } <br> Estado de conservação: ${ db.dados[i].estadoDeConservacao } <br> Nome do(a) proprietário(a): ${ db.dados[i].nomeDoProprietario } <br> Contato: ${ db.dados[i].contato }</p>`;
-        }
-        document.getElementById('lista-livros').innerHTML = prods;
-    </script>
-
 </body>
 
 </html>
