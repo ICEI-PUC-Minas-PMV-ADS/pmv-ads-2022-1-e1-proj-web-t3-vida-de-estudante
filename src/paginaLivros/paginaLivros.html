@@ -39,8 +39,9 @@ $(document).ready(function(){
                 <li><a href="../paginaHome/index.html#sobre-conteudo">Sobre</a></li>
                 <li><a href="../paginaLivros/paginaLivros.html">Livros</a></li>
                 <li><a href="../página Tutorias/paginaTutorias.html">Tutorias</a></li>
-                <li><a href="../paginaCadastro/cadastre-se.html">Cadastre-se</a></li>
-                <li><a href="../pagina-login/login.html">Entrar</a></li>
+                <li id="menu-cadastro"><a href="../paginaCadastro/cadastre-se.html">Cadastre-se</a></li>
+                <li id="menu-entrar"><a href="../pagina-login/login.html">Entrar</a></li>
+                <li id="menu-perfil"><a href="../paginaPerfil/perfil.html">Perfil</a></li>
             </ul>
         </nav>
     </header>
@@ -61,7 +62,7 @@ $(document).ready(function(){
             <p>Copyright &#169 2022 Vida de Estudante | Todos os direitos reservados.</p>
         </footer>
     
-    <script src="mobile-navbar.js"></script>
+    <script src="../menu/mobile-navbar.js"></script>
     <script>
         var prods = '';
         for (i=0; i < db.dados.length; i++) {
