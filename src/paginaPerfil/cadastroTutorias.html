@@ -80,6 +80,10 @@
               <h1 class="cad-um">Cadastro de Tutores</h1>
               <div class="caixas">
                 <div class="caixa">
+                  <label>Foto</label><br />
+                  <input type="text" minlength="6" name="foto" id="foto" required placeholder="Insira o link da sua foto"><br />
+                </div>
+                <div class="caixa">
                   <label>Nome</label><br />
                   <input type="text" minlength="2" name="nome" id="nome" required placeholder="Digite seu nome"><br />
                 </div>
@@ -103,11 +107,6 @@
                   <input type="text" name="contato" id="contato" minlength="6" required
                     placeholder="Telefone ou e-mail"></br>
                 </div>
-                <div class="caixa-img">
-                  <label>Inserir sua foto</label><br />
-                  <input type="hidden" name="MAX_FILE_SIZE" value="4194304" />
-                  <input type="file" />
-                </div>
               </div>
               <div>
                 <button onclick=" return cadastrar()" class="cad-button" id="botao" type=”button”>Cadastrar</button>
@@ -122,7 +121,7 @@
       <p>Copyright &#169 2022 Vida de Estudante | Todos os direitos reservados.</p>
     </footer>
     <script src="../menu/mobile-navbar.js"></script>
-    <script src="script.js"></script>
+    <script src="../paginaPerfil/script.js"></script>
 </body>
 
 </html>
