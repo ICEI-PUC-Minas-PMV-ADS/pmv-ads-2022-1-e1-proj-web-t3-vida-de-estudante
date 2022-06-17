@@ -1,3 +1,14 @@
+let usuarioLogado = JSON.parse(localStorage.getItem("userLogado"));
+if(usuarioLogado){
+    document.getElementById('menu-perfil').style.display = "inline";
+    document.getElementById('menu-cadastro').style.display = "none";
+    document.getElementById('menu-entrar').style.display = "none";
+}else{
+    document.getElementById('menu-perfil').style.display = "none";
+    document.getElementById('menu-cadastro').style.display = "inline";
+    document.getElementById('menu-entrar').style.display = "inline";
+}
+
 class MobileNavbar {
     constructor(mobileMenu, navList, navLinks) {
       this.mobileMenu = document.querySelector(mobileMenu);
