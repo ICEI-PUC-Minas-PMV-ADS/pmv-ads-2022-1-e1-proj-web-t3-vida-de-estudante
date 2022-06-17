@@ -8,11 +8,21 @@ function cadastrar() {
     titulo.focus();
     return;
   }
+  if (imagem.value == "" || imagem.value.length < 6) {
+    alert("Preencha o formulário corretamente!");
+    imagem.focus();
+    return;
+  }
   if (resumo.value == "" || resumo.value.length < 10) {
     alert("Preencha o formulário corretamente!");
     resumo.focus();
     return;
   }
+  if (autor.value == "" || autor.value.length < 4) {
+    alert("Preencha o formulário corretamente!");
+    autor.focus();
+    return;
+  } 
   if (ano.value == "" || ano.value.length < 4) {
     alert("Preencha o formulário corretamente!");
     ano.focus();
@@ -44,7 +54,9 @@ function cadastrar() {
   listaUser.push(
     {
       tituloUser: titulo.value,
+      imagemUser: formulario.imagem.value,
       resumoUser: formulario.resumo.value,
+      autorUser: formulario.autor.value,
       anoUser: formulario.ano.value,
       areaUser: formulario.area.value,
       estadoUser: formulario.estado.value,
