@@ -255,3 +255,35 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Deve ser possível visualizar todos os perfis de Tutores, com suas respectivas fotos e informações, além da visualização da barra de pesquisa acima dos perfis.</td>
  </tr>
 </table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+ </tr>
+  <tr>
+  <td>CT-09: Verificar a página de perfil de usuários cadastrados</td>
+  <td>
+   <ul>
+   <li>RF-009	O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.</li>
+   </ul>
+  </td>
+  <td>Verificar se a página Perfil está apresentando as informações cadastradas pelo usuário corretamente. </td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em "Cadastre-se", no Menu.</li>
+    <li>Preencher o formulário e clicar em “Cadastrar”.</li>
+    <li>Visualizar a página Login.</li>
+    <li>Preencher seus dados e clicar em “Entrar”.</li>
+    <li>Visualizar a página Perfil.</li>
+   </ol>
+   </td>
+  <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
+ </tr>
+</table>
