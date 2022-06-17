@@ -116,3 +116,4 @@ for (i=0; i < lista.dados.length; i++) {
 }
 
 document.getElementById('lista-livros').innerHTML = livros;
+}
