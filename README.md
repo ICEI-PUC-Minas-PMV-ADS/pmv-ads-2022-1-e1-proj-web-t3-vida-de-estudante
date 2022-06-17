@@ -13,7 +13,6 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 * Anna Luiza de Angelis Souza Freitas
 * Daiane Campos Procópio
 * Fernanda Augusta de Barcelos Coura
-* Paulo Henrique da Cruz Alves
 * Rúbia Karina Prado Costa
 
 
