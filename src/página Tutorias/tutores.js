@@ -65,4 +65,4 @@ for (i=0; i < lista.dados.length; i++) {
     tutores += `<p class="Tutor-item"><img src="${ db.dados[i].foto }"> <br> Nome: ${ db.dados[i].nome } <br> Instituição de ensino: ${ db.dados[i].instituicaoDeEnsino } <br> Cidade: ${ db.dados[i].cidade } <br> Disciplina(s): ${ db.dados[i].disciplinas } <br> Contato: ${ db.dados[i].contato }</p>`;
 }
 
-document.getElementById('lista-Tutores').innerHTML = tutores;
+document.getElementById('lista-Tutor').innerHTML = tutores;
