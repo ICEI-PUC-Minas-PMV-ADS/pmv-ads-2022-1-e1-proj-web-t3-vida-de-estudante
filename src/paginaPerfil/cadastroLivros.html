@@ -85,9 +85,19 @@
                     placeholder="Título do livro"><br />
                 </div>
                 <div class="caixa">
+                  <label>Imagem da capa</label><br />
+                  <input type="text" minlength="6" name="imagem" id="imagem" required
+                    placeholder="Insira o link da imagem da capa"><br />
+                </div>
+                <div class="caixa">
                   <label>Resumo</label><br />
                   <textarea required placeholder="Escreva um breve resumo sobre o livro" name="resumo"
                     id="resumo"></textarea></br>
+                </div>
+                <div class="caixa">
+                  <label>Autor</label><br />
+                  <input type="text" minlength="4" name="autor" id="autor" required
+                    placeholder="Autor do livro"><br />
                 </div>
                 <div class="caixa">
                   <label>Ano de publicação</label><br />
@@ -128,11 +138,7 @@
                   <input type="text" name="contato" id="contato" minlength="6" required
                     placeholder="Telefone ou e-mail"></br>
                 </div>
-                <div class="caixa-img">
-                  <label>Inserir imagem da capa</label><br />
-                  <input type="hidden" name="MAX_FILE_SIZE" value="4194304" />
-                  <input type="file" />
-                </div>
+
               </div>
               <div>
                 <button onclick=" return cadastrar()" class="cad-button" id="botao" type=”button”>Cadastrar</button>
