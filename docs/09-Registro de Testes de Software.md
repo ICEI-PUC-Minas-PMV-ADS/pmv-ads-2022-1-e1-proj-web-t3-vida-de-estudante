@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
 
   <p> Informações armazenadas no LocalStorage após o cadastro do livro.</p>
   
-![Captura de Tela 2022-06-20 às 11 20 36](https://user-images.githubusercontent.com/100447878/174625024-bf1bfaa9-09d1-492f-9788-46fe2db2bcd3.png)
+  ![Captura de Tela 2022-06-20 às 11 20 36](https://user-images.githubusercontent.com/100447878/174625024-bf1bfaa9-09d1-492f-9788-46fe2db2bcd3.png)
 
   </li>
   <hr>
@@ -91,11 +91,15 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   <li> CT-07: Verificar o cadastro de tutores.
   <p> Mensagem de confirmação de cadastro do tutor.</p>
   
-  ![Captura de Tela 2022-06-09 às 14 48 43](https://user-images.githubusercontent.com/100447878/172912425-b499f7ed-3e6e-4cff-80ea-ace11d33b95c.png)
+  ![Captura de Tela 2022-06-20 às 17 08 45](https://user-images.githubusercontent.com/100447878/174672573-9931aecc-bdb5-42b6-a871-789fb1c20ec5.png)
   
-  <p> Informações armazenadas no LocalStorage após o usuário cadastrar a tutoria.</p>
+  <p> Registro disponível na página Tutorias após o usuário cadastrar o(a) tutor(a).</p>
   
-  ![Captura de Tela 2022-06-09 às 14 49 08](https://user-images.githubusercontent.com/100447878/172912536-197b5ce3-abad-4072-a447-12532cf6e4ff.png)
+  ![Captura de Tela 2022-06-20 às 17 10 30](https://user-images.githubusercontent.com/100447878/174672695-33567773-fd84-4b7a-9cd4-b3a23bf574d2.png)
+
+  <p> Informações armazenadas no LocalStorage após o usuário cadastrar o(a) tutor(a).</p>
+  
+  ![Captura de Tela 2022-06-20 às 17 11 47](https://user-images.githubusercontent.com/100447878/174672723-dad9ca49-4c29-405e-a01d-dc80c335818e.png)
 
   </li>
   <hr>
