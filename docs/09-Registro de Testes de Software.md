@@ -101,7 +101,8 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
   <li> CT-09: Verificar a página de perfil de usuários cadastrados.
   
-  ![173857481-7c32caf4-26f0-4f6a-8c92-3199552ebaed](https://user-images.githubusercontent.com/100447878/174326793-a7c496af-9afe-4d67-aac8-1ea1f2a455c1.png)
+![Captura de Tela 2022-06-20 às 10 50 33](https://user-images.githubusercontent.com/100447878/174616506-d93f95de-3bd7-44f2-9323-d8bf0b3b4b2b.png)
+
 
   </li>
   
