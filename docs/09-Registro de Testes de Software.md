@@ -75,6 +75,9 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
  ![Captura de Tela 2022-06-20 às 11 00 10](https://user-images.githubusercontent.com/100447878/174618763-01d57f74-5d63-4426-aa27-b80460ab4eb7.png)
 
+  <p> Informações armazenadas no LocalStorage após o cadastro do livro.</p>
+  
+![Captura de Tela 2022-06-20 às 11 20 36](https://user-images.githubusercontent.com/100447878/174625024-bf1bfaa9-09d1-492f-9788-46fe2db2bcd3.png)
 
   </li>
   <hr>
