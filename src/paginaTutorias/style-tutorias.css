@@ -33,7 +33,6 @@ nav {
   font-family: Arial, Helvetica, sans-serif;
   background: #3E497A;
   height: 8vh;
-  
 }
 
 main {
@@ -62,7 +61,6 @@ main {
   margin: 8px;
   transition: 0.3s;
 }
-
 
 @media (max-width: 999px) {
   body {
@@ -129,10 +127,6 @@ body {
   color: #3E497A;
 }
 
-section {
-  padding: 4rem 0;
-}
-
 img {
   display: block;
   max-width: 100%;
@@ -147,9 +141,17 @@ h1 {
 p {
   font-size: 1rem;
   line-height: 1.5;
-  }
+}
 
 .corpo {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.conteudo {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
@@ -163,7 +165,7 @@ main {
   margin-top: 0;
   width: 100%;
   height: 500px;
-  background: url("https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/pagina-tutorias/docs/img/tutorias.jpg?raw=true") no-repeat center;
+  background: url("../paginaTutorias/tutorias.jpg") no-repeat center center;
   background-size: cover;
   color: whitesmoke;
   text-align: center;
@@ -174,9 +176,7 @@ main {
 main h1 {
   font-size: 4rem;
   text-transform: uppercase;
-};
-
-
+}
 
 /* BARRA DE PESQUISA */
 
@@ -186,12 +186,9 @@ input[type=text] {
   border: 2px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
-  margin-top: 20px;
-  margin-right: 0;
-  margin-left: 20px;
-  margin-bottom: 0;
+  margin: 20px 0 20px 10px;
   background-color: white;
-  background-image: url('https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/pagina-tutorias/docs/img/Search%20icon.png?raw=true');
+  background-image: url('../paginaLivros/searchIcon.png');
   background-position: 10px 10px; 
   background-repeat: no-repeat;
   background-size: 20px;
@@ -200,16 +197,14 @@ input[type=text] {
   transition: width 0.4s ease-in-out;
 }
 
-
 /* BARRA DE PESQUISA WIDTH 50% */
 input[type=text]:focus {
   width: 50%;
 }
 
-/* Tutor */
+/* TUTORES */
 
 #lista-Tutor {
-  width: 400px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
@@ -223,16 +218,13 @@ input[type=text]:focus {
   border-radius:0;
 }
 
-
-
 .Tutor-item {
-  width: 350px;
+  width: 80%;
   float: left;
   padding: 30px;
   background-color: white;
   border-radius: 20px;
 }
-
 
 .box-Tutor h2 {
   text-align: center;
@@ -267,7 +259,7 @@ input[type=text]:focus {
   }
 
   .main {
-    background: url("/Imagens/capa.jpg") no-repeat center center;
+    background: url("tutorias.jpg") no-repeat center center;
   }
 
 
