@@ -99,13 +99,19 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
   ![Captura de Tela 2022-06-20 às 17 08 45](https://user-images.githubusercontent.com/100447878/174672573-9931aecc-bdb5-42b6-a871-789fb1c20ec5.png)
   
-  <p> Registro disponível na página Tutorias após o usuário cadastrar o(a) tutor(a).</p>
+  <p> Registro disponível na página Tutorias após o usuário cadastrar o tutor.</p>
   
   ![Captura de Tela 2022-06-20 às 17 10 30](https://user-images.githubusercontent.com/100447878/174672695-33567773-fd84-4b7a-9cd4-b3a23bf574d2.png)
 
-  <p> Informações armazenadas no LocalStorage após o usuário cadastrar o(a) tutor(a).</p>
+  <p> Informações armazenadas no LocalStorage após o usuário cadastrar o tutor.</p>
   
   ![Captura de Tela 2022-06-20 às 17 11 47](https://user-images.githubusercontent.com/100447878/174672723-dad9ca49-4c29-405e-a01d-dc80c335818e.png)
+  
+  <p> No exemplo abaixo, o usuário tenta fazer o cadastro do tutor de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
+  
+  ![Captura de Tela 2022-06-20 às 19 00 37](https://user-images.githubusercontent.com/100447878/174682863-8eb977c9-4f11-4221-a7f4-c7faadffdfb2.png)
+
+  ![Captura de Tela 2022-06-20 às 19 00 41](https://user-images.githubusercontent.com/100447878/174682874-1581496d-fca5-418a-9fe9-105d5789f6c9.png)
 
   </li>
   <hr>
