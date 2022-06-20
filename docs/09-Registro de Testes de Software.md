@@ -66,11 +66,12 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   <li> CT-06: Verificar o cadastro de livros.
   <p> Mensagem de confirmação de cadastro do livro.</p>
   
-  ![Captura de Tela 2022-06-09 às 14 39 57](https://user-images.githubusercontent.com/100447878/172911065-74eecec8-ad3e-4741-89ad-f0c8e6707659.png)
+![Captura de Tela 2022-06-20 às 10 59 35](https://user-images.githubusercontent.com/100447878/174618714-d412521c-efd1-4478-b332-d665cb4819b3.png)
+
+  <p> Registro disponível na página Livros após o usuário cadastrar o livro.</p>
   
-  <p> Informações armazenadas no LocalStorage após o usuário cadastrar o livro.</p>
-  
-  ![Captura de Tela 2022-06-09 às 14 40 30](https://user-images.githubusercontent.com/100447878/172911094-cf3b979b-1141-45db-8ff0-1e4311b7556e.png)
+ ![Captura de Tela 2022-06-20 às 11 00 10](https://user-images.githubusercontent.com/100447878/174618763-01d57f74-5d63-4426-aa27-b80460ab4eb7.png)
+
 
   </li>
   
