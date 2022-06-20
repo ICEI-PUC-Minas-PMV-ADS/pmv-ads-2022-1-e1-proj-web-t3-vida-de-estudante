@@ -7,9 +7,19 @@ function cadastrar() {
     titulo.focus();
     return;
   }
+  if (imagem.value == "" || imagem.value.length < 6) {
+    alert("Preencha o formulário corretamente!");
+    imagem.focus();
+    return;
+  }
   if (resumo.value == "" || resumo.value.length < 10) {
     alert("Preencha o formulário corretamente!");
     resumo.focus();
+    return;
+  }
+  if (autor.value == "" || autor.value.length < 6) {
+    alert("Preencha o formulário corretamente!");
+    autor.focus();
     return;
   }
   if (ano.value == "" || ano.value.length < 4) {
@@ -164,6 +174,7 @@ function cadastrar() {
   alert("Livro cadastrado com sucesso!");
   window.location.href = "../paginaLivros/paginaLivros.html"
 }
+
 
 
 
