@@ -85,6 +85,12 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
   ![Captura de Tela 2022-06-20 às 11 20 36](https://user-images.githubusercontent.com/100447878/174625024-bf1bfaa9-09d1-492f-9788-46fe2db2bcd3.png)
 
+  <p> No exemplo abaixo, o usuário tenta fazer o cadastro do livro de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
+  
+  ![Captura de Tela 2022-06-20 às 18 18 21](https://user-images.githubusercontent.com/100447878/174681754-67715346-f63d-411e-be8d-5478d0ab3ea4.png)
+  
+  ![Captura de Tela 2022-06-20 às 18 19 40](https://user-images.githubusercontent.com/100447878/174681892-d0da3606-faf5-46cb-aea0-388fc43eaa98.png)
+
   </li>
   <hr>
   
@@ -105,18 +111,9 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   <hr>
   
   <li> CT-08: Verificar a página de Tutores.
-  <p> Verificar os detalhes sobre os perfis dos Tutores, sendo possível a visualização das fotos e informações cadastradas pelos tutores.</p>
     
-  ![image](https://user-images.githubusercontent.com/101907319/173162583-3037c787-0176-4356-ae16-6445c9277945.png)
-  ![image](https://user-images.githubusercontent.com/101907319/173162657-ec1a7a05-b5da-432a-97b4-70d62c9a373c.png)
-  ![image](https://user-images.githubusercontent.com/101907319/173162676-407aad3a-238e-40b0-a697-27eaab3fe34e.png)
-  
-<p> Todas as informações cadastradas sobre os Tutores no JSON estão disponibilizadas na página Tutores.</p> 
-    
-  ![image](https://user-images.githubusercontent.com/101907319/173163057-35d64509-1e79-49bf-aebb-9539292b2d36.png)
-  ![image](https://user-images.githubusercontent.com/101907319/173163099-cad9cba6-0a17-4463-8c2b-14a91d0e2a23.png)
+  ![Captura de Tela 2022-06-20 às 18 40 10](https://user-images.githubusercontent.com/100447878/174680988-44d52b0f-3397-4744-86bc-7246bff79957.png)
 
-  </li>
   <hr>
   
   <li> CT-09: Verificar a página de perfil de usuários cadastrados.
