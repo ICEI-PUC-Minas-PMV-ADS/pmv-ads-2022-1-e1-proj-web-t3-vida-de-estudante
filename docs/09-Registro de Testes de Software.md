@@ -14,8 +14,14 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
   <li> CT-02: Verificar o funcionamento do filtro de pesquisa.
     
+  <p>Filtro da página Livros:</p>
+    
 ![Filtro com retorno](https://user-images.githubusercontent.com/100447878/171465039-94bfaaac-242c-4e5f-a573-039c42cf544f.png)
-  <br>
+
+  <p>Filtro da página Tutorias:</p>
+    
+  ![Captura de Tela 2022-06-20 às 14 59 56](https://user-images.githubusercontent.com/100447878/174657238-da15a757-0069-458a-8fb9-7988e16e9dc6.png)
+
   <p> No caso abaixo, o termo digitado não fazia parte das informações cadastradas dos livros. Assim, não houve retorno de livros registrados.</p>
     
 ![Filtro sem retorno](https://user-images.githubusercontent.com/100447878/171465662-3ff5786a-4e30-450f-85e1-776e46892516.png)
