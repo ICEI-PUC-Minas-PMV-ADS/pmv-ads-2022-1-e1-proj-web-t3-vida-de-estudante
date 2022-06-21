@@ -6,8 +6,8 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
 <ol>
   <li> CT-01: Verificar o funcionamento dos links da página Home.
-    
-https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3-a871-0fcdf3a8600a.mov
+
+https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3-aba9-b9e617132f31.mov
 
   </li>
   <hr>
