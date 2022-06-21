@@ -2,7 +2,7 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web.
+O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html">aqui</a> para acessá-lo. 
 
 ## Histórico de versões
 
@@ -27,4 +27,13 @@ O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em 
 - Login: arquivos HTML, CSS e JS.
 
 #### Adicionado
+- Perfil: arquivos HTML, CSS, JS e imagens.
+
+### [0.1.3] - 21/06/2022
+#### Atualizado
+- Homepage: arquivos HTML, CSS, JS e imagens.
+- Livros: arquivos HTML, CSS, JS e imagens.
+- Tutorias: arquivos HTML, CSS, JS e imagens.
+- Cadastro: arquivos HTML, CSS e JS.
+- Login: arquivos HTML, CSS e JS.
 - Perfil: arquivos HTML, CSS, JS e imagens.
