@@ -82,11 +82,11 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
 
   <p> Registro disponível na página Livros após o usuário cadastrar o livro.</p>
   
-
+![Captura de Tela 2022-06-21 às 15 51 10](https://user-images.githubusercontent.com/100447878/174876692-ebcfba83-0af7-4449-a378-f0e8091227f4.png)  
 
   <p> Informações armazenadas no LocalStorage após o cadastro do livro.</p>
   
-  ![Captura de Tela 2022-06-20 às 11 20 36](https://user-images.githubusercontent.com/100447878/174625024-bf1bfaa9-09d1-492f-9788-46fe2db2bcd3.png)
+  ![Captura de Tela 2022-06-21 às 15 52 42](https://user-images.githubusercontent.com/100447878/174876742-e0b01a57-7503-4719-8a87-3ea07d68964c.png)
 
   <p> No exemplo abaixo, o usuário tenta fazer o cadastro do livro de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
   
