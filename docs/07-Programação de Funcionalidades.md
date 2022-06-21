@@ -242,7 +242,7 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 ### Tela de Perfil (RF-009)
 
-O acesso a tela de perfil é feito após o login do usuário na página Login, disponível no menu superior. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Perfil:
 
