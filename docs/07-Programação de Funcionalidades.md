@@ -33,7 +33,7 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html)
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 
 Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
 
@@ -65,7 +65,7 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 #### Instruções de acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
 
 <hr>
@@ -169,7 +169,7 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
 3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
 4.	Clique em "Cadastro de tutores" no menu lateral e verá a página para o cadastro de tutores.
