@@ -59,15 +59,18 @@ https://user-images.githubusercontent.com/100447878/171462737-614517fb-0ac3-4da3
   
    <p>Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.</p>
   
-  ![9d1c8d56-779b-402f-af5d-1f168b8637ca](https://user-images.githubusercontent.com/98122346/172923521-ee129d66-3442-4500-be97-874dc64fc25c.jpg)
+  ![8d33f1db-e0a7-4e41-b956-fde91ac31c63](https://user-images.githubusercontent.com/98122346/174851091-f201d92d-02f9-45c0-8b00-e66358158d8d.jpg)
+
 
   <p>Se as informações de usuário forem válidas, o login será bem sucedido.</p>
   
-  ![ee651061-b444-4358-97de-6e230cf2ec37](https://user-images.githubusercontent.com/98122346/172923744-b765583f-7ff0-43ba-ae51-f6dfe334356b.jpg)
+ ![c555f947-3721-4eee-ad97-5042ce9e6c5e](https://user-images.githubusercontent.com/98122346/174853350-696ef44f-cbc9-4cad-a0e5-7c51d3a67d4b.jpg)
+
 
   <p> Informações armazenadas no LocalStorage do usuário logado.</p>
   
-  ![9c8edbe8-4662-4b8c-8ca4-4efbe20b32ac](https://user-images.githubusercontent.com/98122346/172924023-13286489-ba43-4b73-b48f-0e7dafbfb0d1.jpg)
+  ![af4b5123-e45f-4356-bd53-11b5c75cb78f](https://user-images.githubusercontent.com/98122346/174853422-4572412d-173c-457b-ade9-7d7fc997445e.jpg)
+
 
   </li>
   <hr>
