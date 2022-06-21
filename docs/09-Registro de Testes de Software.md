@@ -78,11 +78,11 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <li> CT-06: Verificar o cadastro de livros.
   <p> Mensagem de confirmação de cadastro do livro.</p>
   
-![Captura de Tela 2022-06-20 às 10 59 35](https://user-images.githubusercontent.com/100447878/174618714-d412521c-efd1-4478-b332-d665cb4819b3.png)
+![Captura de Tela 2022-06-21 às 14 15 34](https://user-images.githubusercontent.com/100447878/174859699-0de48c01-faa1-4362-ac5c-f5a9a337e3c8.png)
 
   <p> Registro disponível na página Livros após o usuário cadastrar o livro.</p>
   
- ![Captura de Tela 2022-06-20 às 11 00 10](https://user-images.githubusercontent.com/100447878/174618763-01d57f74-5d63-4426-aa27-b80460ab4eb7.png)
+
 
   <p> Informações armazenadas no LocalStorage após o cadastro do livro.</p>
   
@@ -90,9 +90,9 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
 
   <p> No exemplo abaixo, o usuário tenta fazer o cadastro do livro de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
   
-  ![Captura de Tela 2022-06-20 às 18 18 21](https://user-images.githubusercontent.com/100447878/174681754-67715346-f63d-411e-be8d-5478d0ab3ea4.png)
-  
-  ![Captura de Tela 2022-06-20 às 18 19 40](https://user-images.githubusercontent.com/100447878/174681892-d0da3606-faf5-46cb-aea0-388fc43eaa98.png)
+![Captura de Tela 2022-06-21 às 14 14 40](https://user-images.githubusercontent.com/100447878/174859774-24a2ca76-c97f-4ae9-9741-418d536a0e53.png)
+
+![Captura de Tela 2022-06-21 às 14 14 59](https://user-images.githubusercontent.com/100447878/174859799-2f7805e2-ff98-415a-aff3-4898d27c879a.png)
 
   </li>
   <hr>
