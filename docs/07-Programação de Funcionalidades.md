@@ -274,5 +274,5 @@ RF-009	O site deve permitir ao usuário verificar as informações registradas n
 2.	Ao clicar em “Cadastrar” no canto superior direito da tela, terá acesso a página de cadastro.
 3.	Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
 4.	Após o cadastro, terá acesso à tela de login.
-5.	Informe seu e-mail e senha cadastrados e terá acesso ä página de Perfil.
+5.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
 
