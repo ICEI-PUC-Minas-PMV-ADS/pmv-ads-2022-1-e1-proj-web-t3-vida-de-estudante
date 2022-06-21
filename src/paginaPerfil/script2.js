@@ -27,12 +27,12 @@ function cadastrar() {
     ano.focus();
     return;
   }
-  if (area.value == "") {
+  if (area.value == "null") {
     alert("Preencha o formulário corretamente!");
     area.focus();
     return;
   }
-  if (estado.value == "" || estado.value.length < 2) {
+  if (estado.value == "null") {
     alert("Preencha o formulário corretamente!");
     estado.focus();
     return;
