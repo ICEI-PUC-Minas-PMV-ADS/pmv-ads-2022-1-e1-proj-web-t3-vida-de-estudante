@@ -33,7 +33,7 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+Abra um navegador de Internet e informe a seguinte URL: (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html)
 
 Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
 
@@ -65,7 +65,7 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 #### Instruções de acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html)
 2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
 
 <hr>
@@ -97,7 +97,7 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros e ao filtro de pesquisa.
 3.	Digite o termo que deseja pesquisar no filtro de pesquisa.
 4.	Veja os resultados da sua pesquisa na tela.
@@ -133,7 +133,7 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
 3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
 4.	Clique em "Cadastro de livros" no menu lateral e verá a página para o cadastro de livros.
@@ -169,7 +169,7 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: (https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html)
 2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
 3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
 4.	Clique em "Cadastro de tutores" no menu lateral e verá a página para o cadastro de tutores.
@@ -208,7 +208,7 @@ Exemplo da tela de Livros:
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros.
 
 <hr>
@@ -234,7 +234,7 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 ### Instruções de acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 	
 2.	Clicar na opção “Tutores” no canto superior direito da tela (na barra de Menu), e terá acesso a página de Tutores.
 
@@ -270,7 +270,7 @@ RF-009	O site deve permitir ao usuário verificar as informações registradas n
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: (colocar URL)
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
 2.	Ao clicar em “Cadastrar” no canto superior direito da tela, terá acesso a página de cadastro.
 3.	Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
 4.	Após o cadastro, terá acesso à tela de login.
