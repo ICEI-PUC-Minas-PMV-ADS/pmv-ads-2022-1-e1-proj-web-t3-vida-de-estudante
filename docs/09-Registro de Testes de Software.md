@@ -100,21 +100,22 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <li> CT-07: Verificar o cadastro de tutores.
   <p> Mensagem de confirmação de cadastro do tutor.</p>
   
-  ![Captura de Tela 2022-06-20 às 17 08 45](https://user-images.githubusercontent.com/100447878/174672573-9931aecc-bdb5-42b6-a871-789fb1c20ec5.png)
-  
+   ![image](https://user-images.githubusercontent.com/101907319/174912389-5ad42624-397a-4ac5-b3c9-add2b13880cb.png)
+
   <p> Registro disponível na página Tutorias após o usuário cadastrar o tutor.</p>
   
-  ![Captura de Tela 2022-06-20 às 17 10 30](https://user-images.githubusercontent.com/100447878/174672695-33567773-fd84-4b7a-9cd4-b3a23bf574d2.png)
+ ![image](https://user-images.githubusercontent.com/101907319/174912436-6ecd1e3d-16db-4ed9-b0f7-e4174ce22d2b.png)
 
   <p> Informações armazenadas no LocalStorage após o usuário cadastrar o tutor.</p>
   
-  ![Captura de Tela 2022-06-20 às 17 11 47](https://user-images.githubusercontent.com/100447878/174672723-dad9ca49-4c29-405e-a01d-dc80c335818e.png)
+  ![image](https://user-images.githubusercontent.com/101907319/174912507-2982d07b-ba7c-41e6-bfd9-f96dec146050.png)
   
   <p> No exemplo abaixo, o usuário tenta fazer o cadastro do tutor de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
   
-  ![Captura de Tela 2022-06-20 às 19 00 37](https://user-images.githubusercontent.com/100447878/174682863-8eb977c9-4f11-4221-a7f4-c7faadffdfb2.png)
+  ![image](https://user-images.githubusercontent.com/101907319/174912677-12ae5e4c-c5c8-4f56-9bbc-b0695eb84a5c.png)
 
-  ![Captura de Tela 2022-06-20 às 19 00 41](https://user-images.githubusercontent.com/100447878/174682874-1581496d-fca5-418a-9fe9-105d5789f6c9.png)
+  ![image](https://user-images.githubusercontent.com/101907319/174912703-90ea848f-fa1c-4698-af16-814aea42da69.png)
+
 
   </li>
   <hr>
