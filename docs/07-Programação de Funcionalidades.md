@@ -178,7 +178,7 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 
 ### Tela de Livros (RF-006, RF-007)
 
-O acesso a tela de livros poderá ser feito através da opção de menu “Livros”. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de livros poderá ser feito através da opção do menu “Livros”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Livros:
 
@@ -198,7 +198,7 @@ Exemplo da tela de Livros:
 
 ●	style-livros.css
 
-●	db.js
+●	livros.js
 
 ●	mobile-navbar.js
 
