@@ -16,15 +16,15 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
     
   <p>Filtro da página Livros:</p>
     
-![Filtro com retorno](https://user-images.githubusercontent.com/100447878/171465039-94bfaaac-242c-4e5f-a573-039c42cf544f.png)
+![Captura de Tela 2022-06-21 às 13 50 15](https://user-images.githubusercontent.com/100447878/174855824-6afdd9f8-9d77-4e2d-b20b-bd62977586ea.png)
 
   <p>Filtro da página Tutorias:</p>
     
-  ![Captura de Tela 2022-06-20 às 14 59 56](https://user-images.githubusercontent.com/100447878/174657238-da15a757-0069-458a-8fb9-7988e16e9dc6.png)
+![Captura de Tela 2022-06-21 às 13 56 27](https://user-images.githubusercontent.com/100447878/174856220-f128f9d7-0e78-46e9-a80c-56545101d0d2.png)
 
   <p> No caso abaixo, o termo digitado não fazia parte das informações cadastradas dos livros. Assim, não houve retorno de livros registrados.</p>
     
-![Filtro sem retorno](https://user-images.githubusercontent.com/100447878/171465662-3ff5786a-4e30-450f-85e1-776e46892516.png)
+![Captura de Tela 2022-06-21 às 13 56 09](https://user-images.githubusercontent.com/100447878/174856402-2a4e38b6-bf79-4ec0-8b3e-26063f99f4e1.png)
 
   </li>
   <hr>
