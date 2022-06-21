@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   
   <li> CT-03: Verificar detalhes dos livros.
       
-![Informações-Livros](https://user-images.githubusercontent.com/100447878/171466782-1cab428c-ae84-4000-af0f-f4a328d06055.png)
+![Captura de Tela 2022-06-21 às 14 00 59 (2)](https://user-images.githubusercontent.com/100447878/174856950-9d27862f-5d4d-407b-95f3-70e9b152dc49.png)
 
   </li>
   <hr>
