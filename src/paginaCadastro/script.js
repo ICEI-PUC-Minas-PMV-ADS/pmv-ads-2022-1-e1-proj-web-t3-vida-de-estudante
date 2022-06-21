@@ -21,7 +21,7 @@ function cadastrar() {
     local.focus();
     return;
   }
-  if (opcoes.value == "") {
+  if (opcoes.value == "null") {
     alert("Preencha o formulário corretamente!");
     opcoes.focus();
     return;
