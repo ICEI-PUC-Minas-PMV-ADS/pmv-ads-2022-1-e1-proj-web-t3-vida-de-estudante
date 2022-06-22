@@ -25,6 +25,8 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 ●cadastro.css
 
+●script.js
+
 
 #### Estrutura de Dados
 
