@@ -108,14 +108,13 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
 
   <p> Informações armazenadas no LocalStorage após o usuário cadastrar o tutor.</p>
   
-  ![image](https://user-images.githubusercontent.com/101907319/174912507-2982d07b-ba7c-41e6-bfd9-f96dec146050.png)
+ ![image](https://user-images.githubusercontent.com/101907319/175368958-66502c11-634a-4a4f-bddb-2c29aa80a969.png)
   
   <p> No exemplo abaixo, o usuário tenta fazer o cadastro do tutor de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
   
-  ![image](https://user-images.githubusercontent.com/101907319/174912677-12ae5e4c-c5c8-4f56-9bbc-b0695eb84a5c.png)
+  ![image](https://user-images.githubusercontent.com/101907319/175367758-cc3efcaa-42b5-4e2c-b300-39f19bbebb20.png)
 
-  ![image](https://user-images.githubusercontent.com/101907319/174912703-90ea848f-fa1c-4698-af16-814aea42da69.png)
-
+  ![image](https://user-images.githubusercontent.com/101907319/175367829-3ecabdbf-e559-4377-a7fa-5e4a5ef4b36e.png)
 
   </li>
   <hr>
