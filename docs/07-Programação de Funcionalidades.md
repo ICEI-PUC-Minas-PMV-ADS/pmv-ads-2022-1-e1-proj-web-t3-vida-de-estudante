@@ -5,7 +5,7 @@
 
 ### Tela de Cadastro (RF-001)
 
-O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de cadastro: 
 
@@ -27,6 +27,8 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 ●script.js
 
+●mobile-navbar.js
+
 
 #### Estrutura de Dados
 
@@ -43,7 +45,7 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a
 
 ### Tela de Login (RF-002)
 
-O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de login: 
 
@@ -57,8 +59,14 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 #### Artefatos da funcionalidade
 
-●	login.html <br>
+●	login.html 
+
 ●	style-login.css
+
+●	script-login.js
+
+●	mobile-navbar.js
+
 
 #### Estrutura de Dados
 
@@ -217,10 +225,11 @@ Exemplo da tela de Livros:
 
 ### Tela de Tutores (RF-008)
 
-O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Tutores: 
-![image](https://user-images.githubusercontent.com/101907319/168500482-ee35c4ed-f244-4db4-9f75-3a3a1847787d.png)
+
+![Captura de Tela 2022-06-23 às 11 36 14](https://user-images.githubusercontent.com/100447878/175325632-ff1a65da-d483-4899-8c2c-f0b585425697.png)
 
 ### Requisito atendido
 
@@ -228,11 +237,17 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 ### Artefatos da funcionalidade
 
-●	Código Tutoria tentativa 1
+●	paginaTutorias.html 
+
+●	style-tutorias.css
+
+●	tutores.js
+
+●	mobile-navbar.js
 
 ### Estrutura de Dados
 
-●	[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/66236635d623a76c6dd572e09003b08a03bbe0b7/src/C%C3%B3digo%20Tutoria%20tentativa%201)
+●	[tutores.html]https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaTutorias/paginaTutorias.html
 
 ### Instruções de acesso
 
