@@ -229,7 +229,7 @@ O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tut
 
 Exemplo da tela de Tutores: 
 
-![Captura de Tela 2022-06-23 às 11 36 14](https://user-images.githubusercontent.com/100447878/175325632-ff1a65da-d483-4899-8c2c-f0b585425697.png)
+![Captura de Tela 2022-06-23 às 11 39 52](https://user-images.githubusercontent.com/100447878/175326567-30cd220c-1a9d-4d53-8b58-424f434f40da.png)
 
 ### Requisito atendido
 
@@ -247,7 +247,7 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 ### Estrutura de Dados
 
-●	[tutores.html]https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaTutorias/paginaTutorias.html
+●[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaTutorias/paginaTutorias.html)
 
 ### Instruções de acesso
 
