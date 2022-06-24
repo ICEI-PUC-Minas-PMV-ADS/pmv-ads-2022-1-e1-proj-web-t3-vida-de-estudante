@@ -10,5 +10,10 @@ https://user-images.githubusercontent.com/100447878/175320438-9451601c-eebe-41c6
 
 2. Vídeo de apresentação das funcionalidades
 
-https://user-images.githubusercontent.com/100447878/175307585-1df4744e-12fd-43c3-8495-f947c01734a0.mp4
+https://user-images.githubusercontent.com/100447878/175574137-6a15dff8-275c-4715-b33a-cd947f5bc64e.mp4
 
+<br>
+
+3. Apresentação de slides
+
+[Apresentação - Vida de estudante.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/files/8977541/Apresentacao.-.Vida.de.estudante.pdf)
