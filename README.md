@@ -6,6 +6,29 @@
 
 `1º semestre/2022`
 
+[Uploading citation.cff…message: Please cite this software using these metadata.
+title: Vida de Estudante
+authors:
+  - family-names: de Angelis Souza Freitas
+    given-names: Anna Luiza
+  - family-names: Campos Procópio
+    given-names: Daiane
+  - family-names: Augusta de Barcelos Coura
+    given-names: Fernanda
+  - family-names: Karina Prado Costa
+    given-names: Rúbia
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
+keywords:
+  - Estudantes
+  - Livros
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante
+version: 1.0.0
+date-released: 2022-06-22]()
+
+
 O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
 
 ## Integrantes
